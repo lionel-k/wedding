@@ -10,13 +10,18 @@
     </a>
   </div>
 
+  <!-- Avatars in the middle of the navbar -->
+  <div class="navbar-wagon-item hidden-md hidden-lg">
+    <%= link_to image_tag("panni-leo.jpg", class: "avatar"), root_path, class: "avatar" %>
+  </div>
+
   <!-- Right Navigation -->
   <div class="navbar-wagon-right hidden-xs hidden-sm">
 
     <% unless user_signed_in? %>
 
-      <!-- Links when logged in -->
-      <%= link_to "Home", "#", class: "navbar-wagon-item navbar-wagon-link" %>
+      <!-- For any users-->
+      <%= link_to "Home", root_path, class: "navbar-wagon-item navbar-wagon-link" %>
       <%= link_to "The Big Day", "#", class: "navbar-wagon-item navbar-wagon-link" %>
       <%= link_to "Travel and Accomodation", "#", class: "navbar-wagon-item navbar-wagon-link" %>
       <%= link_to "Wedding and Holidays in Tuscany", "#", class: "navbar-wagon-item navbar-wagon-link" %>
@@ -41,9 +46,13 @@
     <div class="dropdown">
       <i class="fa fa-bars dropdown-toggle" data-toggle="dropdown"></i>
       <ul class="dropdown-menu dropdown-menu-right navbar-wagon-dropdown-menu">
-        <li><a href="#">Some mobile link</a></li>
-        <li><a href="#">Other one</a></li>
-        <li><a href="#">Other one</a></li>
+        <li><%= link_to "Home", root_path %></li>
+        <li><%= link_to "The Big Day", "#" %></li>
+        <li><%= link_to "Travel and Accomodation", "#" %></li>
+        <li><%= link_to "Wedding and Holidays in Tuscany", "#" %></li>
+        <li><%= link_to "Our Story", "#" %></li>
+        <li><%= link_to "RSVP", rsvp_path %></li>
+        <li><%= link_to "Gallery", gallery_path %></li>
       </ul>
     </div>
   </div>
