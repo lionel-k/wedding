@@ -21,13 +21,13 @@
       <%= link_to "Travel and Accomodation", "#", class: "navbar-wagon-item navbar-wagon-link" %>
       <%= link_to "Wedding and Holidays in Tuscany", "#", class: "navbar-wagon-item navbar-wagon-link" %>
       <%= link_to "Our Story", "#", class: "navbar-wagon-item navbar-wagon-link" %>
-      <%= link_to "RSVP", "#", class: "navbar-wagon-item navbar-wagon-link" %>
-      <%= link_to "Gallery", "#", class: "navbar-wagon-item navbar-wagon-link" %>
+      <%= link_to "RSVP", rsvp_path, class: "navbar-wagon-item navbar-wagon-link" %>
+      <%= link_to "Gallery", gallery_path, class: "navbar-wagon-item navbar-wagon-link" %>
 
       <!-- Avatar with dropdown menu -->
       <div class="navbar-wagon-item">
         <div class="dropdown">
-          <%= link_to image_tag("panni-leo.jpg", class: "avatar"), "index.html", class: "avatar" %>
+          <%= link_to image_tag("panni-leo.jpg", class: "avatar"), root_path, class: "avatar" %>
         </div>
       </div>
     <% else %>
