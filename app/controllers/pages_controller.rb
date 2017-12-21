@@ -5,6 +5,7 @@ class PagesController < ApplicationController
   end
 
   def rsvp
+    @title = "RSVP - Annamária and Lionel"
   end
 
   def gallery

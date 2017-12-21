@@ -1,1 +1,66 @@
-rsvp.html.erb
+<div class="container form">
+  <h2 class="text-center">Let us know if you will make it..</h2>
+  <div class="row">
+    <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+
+      <form action="#">
+
+        <div class="row">
+
+          <div class="col-xs-12">
+            <div class="form-group">
+              <label for="first-name">Your first name</label>
+              <input type="text" class="form-control" id="full-name" placeholder="Christopher" autocomplete="off">
+            </div>
+          </div>
+          <div class="col-xs-12">
+            <div class="form-group">
+              <label for="last-name">Your last name</label>
+              <input type="text" class="form-control" id="full-name" placeholder="West" autocomplete="off">
+            </div>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="email">Your email</label>
+          <input type="email" id="email" class="form-control" placeholder="christopher.west@gmail.com">
+        </div>
+
+        <div class="form-group">
+          <label for="rsvp">Are you coming ?</label>
+          <select id="rsvp-choices" name="rsvp-choices" class="form-control">
+            <option value="yes-attending">Yes, I am coming.</option>
+            <option value="no-attending">No. I won't be able.</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="rsvp">Who else is coming with you ?</label>
+          <div class="row">
+            <div class="col-xs-12">
+              <div class="form-group">
+                <input type="text" class="form-control" id="additional-name" placeholder="Karol Józef Wojtyła">
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="rsvp">Would you like us to help you with the accomodation ?</label>
+          <select id="rsvp-choices" name="rsvp-choices" class="form-control">
+            <option value="yes-accomodation">Yes, please.</option>
+            <option value="no-accomodation">No, thank you.</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="considerations">Please, let us know, if you have any special considerations, food intolerance, allergies.</label>
+          <textarea name="textarea" rows="5" class="form-control">
+          </textarea>
+        </div>
+
+        <input type="submit" value="Send RSVP" class="btn btn-treehouse btn-lg">
+      </form>
+    </div>
+  </div>
+</div>
