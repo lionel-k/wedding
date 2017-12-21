@@ -1,0 +1,19 @@
+<div class="container form">
+  <h2 class="text-center">Let us know if you will make it..</h2>
+  <div class="row">
+    <div class="col-xs-12 col-sm-6 col-sm-offset-3">
+
+        <div class="row">
+
+          <%= simple_form_for @rsvp do |f| %>
+          <%= f.association :guest, collection: Guest.all.order(:first_name).map {|guest| [guest.full_name, guest.id]}, prompt: "Christopher West", label: "Your Name" %>
+
+          <%= f.input :is_attending, collection: [["Yes, I am coming.", true], ["No. I won't be able.", false]] ,label: "Are you coming ?", class: "form-control" %>
+          <%= f.input :needs_accomodation, collection: [["Yes, please.", true], ["No. Thank you.", false]], label: "Would you like us to help you with the accomodation ?" %>
+          <%= f.input :additionals, label: "Who else is coming with you ?" %>
+          <%= f.input :consideration, label: "Please, let us know, if you have any special considerations, food intolerance, allergies.", input_html: { style: 'width: 100%', rows: 5 }  %>
+          <%= f.submit "Send RSVP", class: "btn btn-treehouse btn-lg" %>
+          <% end %>
+    </div>
+  </div>
+</div>

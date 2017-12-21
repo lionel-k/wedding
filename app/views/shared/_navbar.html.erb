@@ -25,7 +25,7 @@
       <%= link_to t('.travel_and_accomodation'), root_path(anchor: 'travel-and-accomodation'), class: "navbar-wagon-item navbar-wagon-link" %>
       <%= link_to t('.wedding_and_hollidays_in_tuscany'), root_path(anchor: 'wedding-and-holidays-in-tuscany'), class: "navbar-wagon-item navbar-wagon-link" %>
       <%= link_to t('.our_story'), root_path(anchor: 'our-story'), class: "navbar-wagon-item navbar-wagon-link" %>
-      <%= link_to t('.rsvp'), rsvp_path, class: "navbar-wagon-item navbar-wagon-link" %>
+      <%= link_to t('.rsvp'), new_rsvp_path, class: "navbar-wagon-item navbar-wagon-link" %>
       <%= link_to t('.gallery'), gallery_path, class: "navbar-wagon-item navbar-wagon-link" %>
 
       <!-- Avatar with dropdown menu -->
@@ -46,11 +46,11 @@
       <i class="fa fa-bars dropdown-toggle" data-toggle="dropdown"></i>
       <ul class="dropdown-menu dropdown-menu-right navbar-wagon-dropdown-menu">
         <li><%= link_to "Home", root_path %></li>
-        <li><%= link_to "The Big Day", "#" %></li>
-        <li><%= link_to "Travel and Accomodation", "#" %></li>
-        <li><%= link_to "Wedding and Holidays in Tuscany", "#" %></li>
-        <li><%= link_to "Our Story", "#" %></li>
-        <li><%= link_to "RSVP", rsvp_path %></li>
+        <li><%= link_to "The Big Day", root_path(anchor: 'the-big-day') %></li>
+        <li><%= link_to "Travel and Accomodation", root_path(anchor: 'travel-and-accomodation') %></li>
+        <li><%= link_to "Wedding and Holidays in Tuscany", root_path(anchor: 'wedding-and-holidays-in-tuscany') %></li>
+        <li><%= link_to "Our Story", root_path(anchor: 'our-story') %></li>
+        <li><%= link_to "RSVP", new_rsvp_path %></li>
         <li><%= link_to "Gallery", gallery_path %></li>
       </ul>
     </div>

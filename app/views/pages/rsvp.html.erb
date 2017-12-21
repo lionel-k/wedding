@@ -7,12 +7,21 @@
 
         <div class="row">
 
+          <%= simple_form_for @rsvp do |f| %>
+          <%= f.association :guest, collection: Guest.all.order(:name), prompt: "Christopher West" %>
+
+          <%= f.input :description %>
+          <%= f.submit "Add an ingredient", class: "btn btn-primary" %>
+          <% end %>
+
+
           <div class="col-xs-12">
             <div class="form-group">
-              <label for="first-name">Your first name</label>
+              <label for="first-name">Your name</label>
               <input type="text" class="form-control" id="full-name" placeholder="Christopher" autocomplete="off">
             </div>
           </div>
+
           <div class="col-xs-12">
             <div class="form-group">
               <label for="last-name">Your last name</label>
