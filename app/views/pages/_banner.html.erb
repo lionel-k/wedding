@@ -1,0 +1,19 @@
+<div class="container">
+  <div class="banner" style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url(<%= image_path 'teotokos-2.jpeg' %>);">
+    <div class="banner-content">
+      <h1 class="hidden-xs hidden-sm">Annamária & Lionel</h1>
+      <div class="hidden-md hidden-lg">
+        <h1>Annamária</h1>
+        <h1>&</h1>
+        <h1>Lionel</h1>
+      </div>
+
+      <div class="details">
+        <h2><%= l(DateTime.new(2018,6,23), format: '%a, %e %b %Y').titleize %></h2>
+        <h2><%= t('.location') %></h2>
+      </div>
+
+      <%= link_to t('.are_you_coming'), rsvp_path, class: "btn btn-treehouse btn-lg" %>
+    </div>
+  </div>
+</div>

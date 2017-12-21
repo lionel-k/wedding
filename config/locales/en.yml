@@ -1,5 +1,9 @@
 ---
 en:
+  pages:
+    banner:
+      are_you_coming: Are You Coming ?
+      location: Incisa Val D'Arno, Italy
   shared:
     navbar:
       gallery: Gallery
