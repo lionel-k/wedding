@@ -1,0 +1,4 @@
+search:
+  exclude:
+    - app/assets/images
+    - app/assets/fonts

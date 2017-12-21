@@ -1,2 +1,12 @@
+---
 en:
-  hello: "Hello world"
+  shared:
+    navbar:
+      gallery: Gallery
+      home: Home
+      our_story: Our Story
+      rsvp: RSVP
+      sign_in: Sign In
+      the_big_day: The Big Day
+      travel_and_accomodation: Travel And Accomodation
+      wedding_and_hollidays_in_tuscany: Wedding And Hollidays In Tuscany
