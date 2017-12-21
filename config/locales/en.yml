@@ -25,6 +25,17 @@ en:
       party: Party
       santuario_maria_theotokos: Santuario Maria Theotokos
       the_big_day: The Big Day
+  rsvps:
+    new:
+      are_you_coming: Are you coming ?
+      consideration: Please, let us know, if you have any special considerations,
+        food intolerance, allergies.
+      let_us_know_if_you_will_make_it: Let us know if you will make it
+      send_rsvp: Send Rsvp
+      who_else_is_coming_with_you: Who else is coming with you ?
+      would_you_like_us_to_help_you_with_the_accomodation: Would you like us to help
+        you with the accomodation ?
+      your_name: Your Name
   shared:
     navbar:
       gallery: Gallery
@@ -35,3 +46,4 @@ en:
       the_big_day: The Big Day
       travel_and_accomodation: Travel and Accomodation
       wedding_and_hollidays_in_tuscany: Wedding and Hollidays in Tuscany
+  who_else_is_coming_with_you: Who else is coming with you

@@ -25,6 +25,16 @@ fr:
       party: Fête
       santuario_maria_theotokos: Sanctuaire Maria Theotokos
       the_big_day: Le Grand Jour
+  rsvps:
+    new:
+      are_you_coming: Seras-Tu des nôtres ?
+      consideration: Consideration
+      let_us_know_if_you_will_make_it: Let us know if you will make it
+      send_rsvp: Send rsvp
+      who_else_is_coming_with_you: Who else is coming with you
+      would_you_like_us_to_help_you_with_the_accomodation: Would you like us to help
+        you with the accomodation
+      your_name: Your name
   shared:
     navbar:
       gallery: Gallerie
@@ -35,3 +45,4 @@ fr:
       the_big_day: Le Grand Jour
       travel_and_accomodation: Voyage et Logement
       wedding_and_hollidays_in_tuscany: Mariage et Vacances en Toscane
+  who_else_is_coming_with_you: Who else is coming with you

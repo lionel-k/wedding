@@ -1,18 +1,18 @@
 <div class="container form">
-  <h2 class="text-center">Let us know if you will make it..</h2>
+  <h2 class="text-center"><%= t('.let_us_know_if_you_will_make_it') %>..</h2>
   <div class="row">
     <div class="col-xs-12 col-sm-6 col-sm-offset-3">
 
         <div class="row">
 
           <%= simple_form_for @rsvp do |f| %>
-          <%= f.association :guest, collection: Guest.all.order(:first_name).map {|guest| [guest.full_name, guest.id]}, prompt: "Christopher West", label: "Your Name" %>
+          <%= f.association :guest, collection: Guest.all.order(:first_name).map {|guest| [guest.full_name, guest.id]}, prompt: "Christopher West", label: t('.your_name') %>
 
-          <%= f.input :is_attending, collection: [["Yes, I am coming.", true], ["No. I won't be able.", false]] ,label: "Are you coming ?", class: "form-control" %>
-          <%= f.input :needs_accomodation, collection: [["Yes, please.", true], ["No. Thank you.", false]], label: "Would you like us to help you with the accomodation ?" %>
-          <%= f.input :additionals, label: "Who else is coming with you ?" %>
-          <%= f.input :consideration, label: "Please, let us know, if you have any special considerations, food intolerance, allergies.", input_html: { style: 'width: 100%', rows: 5 }  %>
-          <%= f.submit "Send RSVP", class: "btn btn-treehouse btn-lg" %>
+          <%= f.input :is_attending, collection: [["Yes, I am coming.", true], ["No. I won't be able.", false]] ,label: t('.are_you_coming'), class: "form-control" %>
+          <%= f.input :needs_accomodation, collection: [["Yes, please.", true], ["No. Thank you.", false]], label: t('.would_you_like_us_to_help_you_with_the_accomodation') %>
+          <%= f.input :additionals, label: t('.who_else_is_coming_with_you') %>
+          <%= f.input :consideration, label: t('.consideration'), input_html: { style: 'width: 100%', rows: 5 }  %>
+          <%= f.submit t('.send_rsvp'), class: "btn btn-treehouse btn-lg" %>
           <% end %>
     </div>
   </div>
