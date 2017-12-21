@@ -7,6 +7,12 @@ en:
     chiara_quote:
       chiara_quote: If I should have to leave this world today and you were to ask
         me for a single word, I would say 'Be a family'.
+    countdown:
+      days: Days
+      hours: Hours
+      minutes: Minutes
+      seconds: Seconds
+      we_are_getting_married_in: We are getting married in
     stats:
       after: After
       countries: Countries

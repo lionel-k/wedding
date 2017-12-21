@@ -7,6 +7,12 @@ fr:
     chiara_quote:
       chiara_quote: Si aujourd’hui je devais quitter cette terre et qu’une dernière
         parole m’était demandée, je vous dirais 'Soyez une famille'.
+    countdown:
+      days: Jours
+      hours: Heures
+      minutes: Minutes
+      seconds: Secondes
+      we_are_getting_married_in: Nous nous marrions dans
     stats:
       after: Après
       countries: Pays
