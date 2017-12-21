@@ -1,6 +1,6 @@
 ---
 en:
-  pages:
+  home:
     banner:
       are_you_coming: Are You Coming ?
       location: Incisa Val D'Arno, Italy
@@ -17,9 +17,9 @@ en:
     navbar:
       gallery: Gallery
       home: Home
-      our_story: Our Story
+      our_story: Our story
       rsvp: RSVP
-      sign_in: Sign In
+      sign_in: Sign in
       the_big_day: The Big Day
       travel_and_accomodation: Travel and Accomodation
       wedding_and_hollidays_in_tuscany: Wedding and Hollidays in Tuscany
