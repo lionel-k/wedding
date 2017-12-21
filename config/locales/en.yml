@@ -5,7 +5,14 @@ en:
       are_you_coming: Are You Coming ?
       location: Incisa Val D'Arno, Italy
     chiara_quote:
-      chiara_quote: If I should have to leave this world today and you were to ask me for a single word, I would say 'Be a family'.
+      chiara_quote: If I should have to leave this world today and you were to ask
+        me for a single word, I would say 'Be a family'.
+    stats:
+      after: After
+      countries: Countries
+      flights: Flights
+      kms: Kms
+      years: Years
   shared:
     navbar:
       gallery: Gallery
