@@ -19,6 +19,12 @@ fr:
       flights: Vols
       kms: Kms
       years: Années
+    the_big_day:
+      dinner: Dîner
+      mass: Messe
+      party: Fête
+      santuario_maria_theotokos: Sanctuaire Maria Theotokos
+      the_big_day: Le Grand Jour
   shared:
     navbar:
       gallery: Gallerie
