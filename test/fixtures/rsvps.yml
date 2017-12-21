@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  guest: one
+  is_attending: false
+  additionals: MyString
+  needs_accomodation: false
+  consideration: MyText
+
+two:
+  guest: two
+  is_attending: false
+  additionals: MyString
+  needs_accomodation: false
+  consideration: MyText
