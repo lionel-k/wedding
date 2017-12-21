@@ -2,12 +2,10 @@
 
   <!-- Flags -->
   <div class="navbar-flags">
-      <%= link_to (image_tag "uk-flag.svg.png"), root_path(:locale => 'en'), class: "navbar-wagon-brand" %>
-      <%= link_to (image_tag "hungary-flag-svg.png"), root_path( :locale => 'hu'), class: "navbar-wagon-brand" %>
-      <%# raise %>
-      <%#= I18n.locale == :en ? root_url : root_url(locale: I18n.locale) %>
-      <%= link_to (image_tag "france-flag-svg.svg"), root_path( :locale => 'fr'), class: "navbar-wagon-brand" %>
-      <%= link_to (image_tag "italy-flag-svg.svg"), root_path( :locale => 'it'), class: "navbar-wagon-brand" %>
+      <%= link_to (image_tag "uk-flag.svg.png"), root_path(locale: 'en'), class: "navbar-wagon-brand" %>
+      <%= link_to (image_tag "hungary-flag-svg.png"), root_path(locale: 'hu'), class: "navbar-wagon-brand" %>
+      <%= link_to (image_tag "france-flag-svg.svg"), root_path(locale: 'fr'), class: "navbar-wagon-brand" %>
+      <%= link_to (image_tag "italy-flag-svg.svg"), root_path(locale: 'it'), class: "navbar-wagon-brand" %>
     </a>
   </div>
 
@@ -22,13 +20,13 @@
     <% unless user_signed_in? %>
 
       <!-- For any users-->
-      <%= link_to "Home", root_path, class: "navbar-wagon-item navbar-wagon-link" %>
-      <%= link_to "The Big Day", "#", class: "navbar-wagon-item navbar-wagon-link" %>
-      <%= link_to "Travel and Accomodation", "#", class: "navbar-wagon-item navbar-wagon-link" %>
-      <%= link_to "Wedding and Holidays in Tuscany", "#", class: "navbar-wagon-item navbar-wagon-link" %>
-      <%= link_to "Our Story", "#", class: "navbar-wagon-item navbar-wagon-link" %>
-      <%= link_to "RSVP", rsvp_path(locale: I18n.locale), class: "navbar-wagon-item navbar-wagon-link" %>
-      <%= link_to "Gallery", gallery_path, class: "navbar-wagon-item navbar-wagon-link" %>
+      <%= link_to t('.home'), root_path, class: "navbar-wagon-item navbar-wagon-link" %>
+      <%= link_to t('.the_big_day'), "#", class: "navbar-wagon-item navbar-wagon-link" %>
+      <%= link_to t('.travel_and_accomodation'), "#", class: "navbar-wagon-item navbar-wagon-link" %>
+      <%= link_to t('.wedding_and_hollidays_in_tuscany'), "#", class: "navbar-wagon-item navbar-wagon-link" %>
+      <%= link_to t('.our_story'), "#", class: "navbar-wagon-item navbar-wagon-link" %>
+      <%= link_to t('.rsvp'), rsvp_path, class: "navbar-wagon-item navbar-wagon-link" %>
+      <%= link_to t('.gallery'), gallery_path, class: "navbar-wagon-item navbar-wagon-link" %>
 
       <!-- Avatar with dropdown menu -->
       <div class="navbar-wagon-item">
