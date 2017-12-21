@@ -21,10 +21,10 @@
 
       <!-- For any users-->
       <%= link_to t('.home'), root_path, class: "navbar-wagon-item navbar-wagon-link" %>
-      <%= link_to t('.the_big_day'), "#", class: "navbar-wagon-item navbar-wagon-link" %>
-      <%= link_to t('.travel_and_accomodation'), "#", class: "navbar-wagon-item navbar-wagon-link" %>
-      <%= link_to t('.wedding_and_hollidays_in_tuscany'), "#", class: "navbar-wagon-item navbar-wagon-link" %>
-      <%= link_to t('.our_story'), "#", class: "navbar-wagon-item navbar-wagon-link" %>
+      <%= link_to t('.the_big_day'), root_path(anchor: 'the-big-day'), class: "navbar-wagon-item navbar-wagon-link" %>
+      <%= link_to t('.travel_and_accomodation'), root_path(anchor: 'travel-and-accomodation'), class: "navbar-wagon-item navbar-wagon-link" %>
+      <%= link_to t('.wedding_and_hollidays_in_tuscany'), root_path(anchor: 'wedding-and-holidays-in-tuscany'), class: "navbar-wagon-item navbar-wagon-link" %>
+      <%= link_to t('.our_story'), root_path(anchor: 'our-story'), class: "navbar-wagon-item navbar-wagon-link" %>
       <%= link_to t('.rsvp'), rsvp_path, class: "navbar-wagon-item navbar-wagon-link" %>
       <%= link_to t('.gallery'), gallery_path, class: "navbar-wagon-item navbar-wagon-link" %>
 
