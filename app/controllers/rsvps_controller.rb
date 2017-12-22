@@ -10,6 +10,7 @@ class RsvpsController < ApplicationController
     @rsvp ||= Rsvp.new
     @rsvp.update(rsvp_params)
     if @rsvp.save
+      RsvpMailer.confirmation(@rsvp.guest).deliver_later
       redirect_to root_path
     else
       render 'rsvps/new'

@@ -1,5 +1,9 @@
 ---
 fr:
+  en:
+  rsvp_mailer:
+    confirmation:
+      confirmation_email: Merci pour l'envoi de ton RSVP
   home:
     banner:
       are_you_coming: Seras-tu des nôtres ?
