@@ -10,3 +10,19 @@
 .gallery-container {
   margin-top: 20px;
 }
+
+.select2-container .select2-selection--single {
+  height: 39px !important;
+  padding: 6px 0px !important;
+  font-size: 18px !important;
+  border: 1px solid #ccc;
+}
+
+
+.select2 .select2-container .select2-container--default .select2-container--below .select2-container--focus {
+  width: 100% !important;
+}
+
+.select2 .select2-container .select2-container--default {
+  width: 100% !important;
+}
