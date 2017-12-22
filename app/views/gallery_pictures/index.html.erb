@@ -1,0 +1,16 @@
+<div class="main-container">
+  <div class="container">
+    <div class="row">
+      <% @gallery.each do |picture| %>
+      <div class="col-xs-12 col-sm-6 col-md-4">
+        <div class="card" style="background-image: url(<%= image_url picture.name %>);">
+          <a class="card-link disable-click" href="#" ></a>
+        </div>
+        <div class="card-bottom">
+          <p class="text-center"><small><%= picture.description %></small></p>
+        </div>
+      </div>
+      <% end %>
+    </div>
+  </div>
+</div>
