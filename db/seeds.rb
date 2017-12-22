@@ -1,14 +1,15 @@
-# GalleryPicture.destroy_all
+GalleryPicture.destroy_all
+Guest.destroy_all
 
 require "yaml"
 require "csv"
 
-# gallery = YAML.load_file('db/gallery.yml')
-# gallery.each do |picture|
-#   name = picture["name"]
-#   description = picture["description"]
-#   GalleryPicture.create!(name: name, description: description)
-# end
+gallery = YAML.load_file('db/gallery.yml')
+gallery.each do |picture|
+  name = picture["name"]
+  description = picture["description"]
+  GalleryPicture.create!(name: name, description: description)
+end
 
 
 csv_options = { col_sep: ',', headers: :first_row }
