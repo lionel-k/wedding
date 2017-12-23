@@ -83,6 +83,8 @@ en:
       yes_please: Yes, Please.
       your_name: Your Name
   shared:
+    footer:
+      made_with_love: Made with <i class="fa fa-heart"></i> by Annamária and Lionel
     navbar:
       gallery: Gallery
       home: Home

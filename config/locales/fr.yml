@@ -83,6 +83,8 @@ fr:
       yes_please: Oui, s'il vous plait.
       your_name: Ton nom
   shared:
+    footer:
+      made_with_love: Fait avec <i class="fa fa-heart"></i> par Annamária and Lionel
     navbar:
       gallery: Gallerie
       home: Accueil
