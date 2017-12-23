@@ -36,6 +36,32 @@ en:
       price: Price
       travel: Travel
       travel_and_accomodation: Travel and Accomodation
+    wedding_and_hollidays:
+      arezzo: Arezzo
+      arezzo_detail_1: Arezzo detail 1
+      arezzo_detail_2: Arezzo detail 2
+      arezzo_detail_3: Arezzo detail 3
+      florence: Florence
+      florence_detail_1: Florence detail 1
+      florence_detail_2: Florence detail 2
+      florence_detail_3: Florence detail 3
+      lucca: Lucca
+      lucca_detail_1: Lucca detail 1
+      lucca_detail_2: Lucca detail 2
+      lucca_detail_3: Lucca detail 3
+      pisa: Pisa
+      pisa_detail_1: Pisa detail 1
+      pisa_detail_2: Pisa detail 2
+      pisa_detail_3: Pisa detail 3
+      san_gimignano: San gimignano
+      san_gimignano_detail_1: San gimignano detail 1
+      san_gimignano_detail_2: San gimignano detail 2
+      san_gimignano_detail_3: San gimignano detail 3
+      siena: Siena
+      siena_detail_1: Siena detail 1
+      siena_detail_2: Siena detail 2
+      siena_detail_3: Siena detail 3
+      wedding_and_hollidays_in_tuscany: Wedding and Holidays in Tuscany
   rsvp_mailer:
     confirmation:
       confirmation_email: Thanks for sending us the RSVP
