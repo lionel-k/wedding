@@ -1,6 +1,5 @@
 ---
 en:
-  en: En
   home:
     banner:
       are_you_coming: Are You Coming ?
@@ -14,6 +13,9 @@ en:
       minutes: Minutes
       seconds: Seconds
       we_are_getting_married_in: We are getting married in
+    our_story:
+      our_path: Our Path
+      our_story: Our Story
     stats:
       after: After
       countries: Countries
@@ -84,7 +86,7 @@ en:
     navbar:
       gallery: Gallery
       home: Home
-      our_story: Our story
+      our_story: Our Story
       rsvp: RSVP
       sign_in: Sign in
       the_big_day: The Big Day

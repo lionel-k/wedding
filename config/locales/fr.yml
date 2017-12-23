@@ -1,6 +1,5 @@
 ---
 fr:
-  en: En
   home:
     banner:
       are_you_coming: Seras-tu des nôtres ?
@@ -14,6 +13,9 @@ fr:
       minutes: Minutes
       seconds: Secondes
       we_are_getting_married_in: Nous nous marrions dans
+    our_story:
+      our_path: Notre Chemin
+      our_story: Notre Histoire
     stats:
       after: Après
       countries: Pays
@@ -74,7 +76,7 @@ fr:
       no_i_wont_be_able: Désolé, je ne pourrais pas.
       no_thank_you: Non, Merci.
       send_rsvp: Envoi du RSVP
-      who_else_is_coming_with_you: Qui d'autre sera là avec toi?
+      who_else_is_coming_with_you: Qui sera là avec toi?
       would_you_like_us_to_help_you_with_the_accomodation: Souhaites-tu de l'aide
         de notre part pour le logement?
       yes_i_am_coming: Oui, je serais là.
