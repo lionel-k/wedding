@@ -8,8 +8,8 @@
           <%= simple_form_for @rsvp do |f| %>
           <%= f.association :guest, collection: Guest.all.order(:first_name).map {|guest| [guest.full_name, guest.id]}, prompt: "Christopher West", label: t('.your_name'), input_html: { class: 'select2 form-control' } %>
 
-          <%= f.input :is_attending, collection: [["Yes, I am coming.", true], ["No. I won't be able.", false]] ,label: t('.are_you_coming'), class: "form-control" %>
-          <%= f.input :needs_accomodation, collection: [["Yes, please.", true], ["No. Thank you.", false]], label: t('.would_you_like_us_to_help_you_with_the_accomodation') %>
+          <%= f.input :is_attending, collection: [[t('.yes_i_am_coming'), true], [t('.no_i_wont_be_able'), false]] ,label: t('.are_you_coming'), class: "form-control" %>
+          <%= f.input :needs_accomodation, collection: [[t('.yes_please'), true], [t('.no_thank_you'), false]], label: t('.would_you_like_us_to_help_you_with_the_accomodation') %>
           <%= f.input :additionals, label: t('.who_else_is_coming_with_you') %>
           <%= f.input :consideration, label: t('.consideration'), input_html: { style: 'width: 100%', rows: 5 }  %>
           <%= f.submit t('.send_rsvp'), class: "btn btn-treehouse btn-lg" %>

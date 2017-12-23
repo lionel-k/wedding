@@ -1,9 +1,6 @@
 ---
 fr:
-  en:
-  rsvp_mailer:
-    confirmation:
-      confirmation_email: Merci pour l'envoi de ton RSVP
+  en: En
   home:
     banner:
       are_you_coming: Seras-tu des nôtres ?
@@ -29,16 +26,24 @@ fr:
       party: Fête
       santuario_maria_theotokos: Sanctuaire Maria Theotokos
       the_big_day: Le Grand Jour
+  rsvp_mailer:
+    confirmation:
+      confirmation_email: Merci pour l'envoi de ton RSVP
   rsvps:
     new:
-      are_you_coming: Seras-Tu des nôtres ?
-      consideration: Consideration
-      let_us_know_if_you_will_make_it: Let us know if you will make it
-      send_rsvp: Send rsvp
-      who_else_is_coming_with_you: Who else is coming with you
-      would_you_like_us_to_help_you_with_the_accomodation: Would you like us to help
-        you with the accomodation
-      your_name: Your name
+      are_you_coming: Seras-tu des nôtres ?
+      consideration: Peux-tu, s'il te plait, nous dire si tu as une considération
+        spéciale, une intolérance alimentaire, une allergie.
+      let_us_know_if_you_will_make_it: Fais-nous savoir si tu seras parmi nous
+      no_i_wont_be_able: Désolé, je ne pourrais pas.
+      no_thank_you: Non, Merci.
+      send_rsvp: Envoi du RSVP
+      who_else_is_coming_with_you: Qui d'autre sera là avec toi?
+      would_you_like_us_to_help_you_with_the_accomodation: Souhaites-tu de l'aide
+        de notre part pour le logement?
+      yes_i_am_coming: Oui, je serais là.
+      yes_please: Oui, s'il vous plait.
+      your_name: Ton nom
   shared:
     navbar:
       gallery: Gallerie

@@ -1,8 +1,6 @@
 ---
 en:
-  rsvp_mailer:
-    confirmation:
-      confirmation_email: Thanks for sending us the RSVP
+  en: En
   home:
     banner:
       are_you_coming: Are You Coming ?
@@ -28,16 +26,23 @@ en:
       party: Party
       santuario_maria_theotokos: Santuario Maria Theotokos
       the_big_day: The Big Day
+  rsvp_mailer:
+    confirmation:
+      confirmation_email: Thanks for sending us the RSVP
   rsvps:
     new:
       are_you_coming: Are you coming ?
       consideration: Please, let us know, if you have any special considerations,
         food intolerance, allergies.
       let_us_know_if_you_will_make_it: Let us know if you will make it
-      send_rsvp: Send Rsvp
+      no_i_wont_be_able: No, I won't be able.
+      no_thank_you: No, Thank you.
+      send_rsvp: Send RSVP
       who_else_is_coming_with_you: Who else is coming with you ?
       would_you_like_us_to_help_you_with_the_accomodation: Would you like us to help
         you with the accomodation ?
+      yes_i_am_coming: Yes, I am coming.
+      yes_please: Yes, Please.
       your_name: Your Name
   shared:
     navbar:
