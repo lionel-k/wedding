@@ -84,7 +84,7 @@ fr:
       your_name: Ton nom
   shared:
     footer:
-      made_with_love: Fait avec <i class="fa fa-heart"></i> par Annamária and Lionel
+      made_with_love_html: Fait avec <i class="fa fa-heart"></i> par Annamária et Lionel
     navbar:
       gallery: Gallerie
       home: Accueil
