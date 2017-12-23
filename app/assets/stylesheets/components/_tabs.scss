@@ -1,0 +1,28 @@
+.tabs {
+  display: flex;
+  align-items: center;
+}
+.tab {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+  opacity: 0.3;
+  border-bottom: 5px solid transparent;
+  text-decoration: none;
+  color: black;
+}
+.tab:hover {
+  opacity: .5;
+  color: black;
+}
+.tab.active {
+  opacity: 1;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+  border-bottom: 5px solid #5BA69C;
+}
+
+a {
+  text-decoration: none;
+}

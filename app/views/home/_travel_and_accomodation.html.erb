@@ -1,0 +1,75 @@
+<div class="container text-center">
+  <%= link_to "", "", name: "travel-and-accomodation" %>
+  <h2 class="text-center title"><%= t('.travel_and_accomodation') %></h2>
+  <div class="tabs">
+    <a href="#" class="tab active disable-click tab-travel"><%= t('.travel') %></a>
+    <a href="#" class="tab disable-click tab-accomodation"><%= t('.accomodation') %></a>
+  </div>
+
+  <ul class="inbox inbox-travel">
+    <li class="message">
+      <%= image_tag "flight-landing.svg", class: "avatar-lg" %>
+      <div class="message-name">
+        <p><strong><%= l(DateTime.new(2018,6,23), format: '%a, %e %b %Y').titleize %></strong></p>
+        <p> 6:00 AM - 11:00 AM</p>
+      </div>
+      <div class="message-body text-center">
+        <p><strong><%= t('.pisa_international_airport') %></strong></p>
+        <p> I am not sure yet! I might be in Shanghai at this moment... Can I tell you later?</p>
+        <p> I am not sure yet! I might be in Shanghai at this moment... Can I tell you later?</p>
+        <p> I am not sure yet! I might be in Shanghai at this moment... Can I tell you later?</p>
+      </div>
+    </li>
+
+    <li class="message">
+      <%= image_tag "flight-landing.svg", class: "avatar-lg" %>
+      <div class="message-name">
+        <p><strong><%= l(DateTime.new(2018,6,23), format: '%a, %e %b %Y').titleize %></strong></p>
+        <p> 6:00 AM - 11:00 AM</p>
+      </div>
+      <div class="message-body">
+        <p><strong><%= t('.florence_airport') %></strong></p>
+        <p> I am not sure yet! I might be in Shanghai at this moment... Can I tell you later?</p>
+        <p> I am not sure yet! I might be in Shanghai at this moment... Can I tell you later?</p>
+      </div>
+    </li>
+
+    <li class="message">
+      <%= image_tag 'car.png', class: "avatar-lg" %>
+      <div class="message-name">
+        <p><strong><%= l(DateTime.new(2018,6,23), format: '%a, %e %b %Y').titleize %></strong></p>
+        <p> 6:00 AM - 11:00 AM</p>
+      </div>
+      <div class="message-body">
+        <p><strong><%= t('.address_loppiano') %></strong></p>
+        <p>I’ll be glad to welcome you in my cosy flat in Lille. When are you arriving exactly?</p>
+        <p>I’ll be glad to welcome you in my cosy flat in Lille. When are you arriving exactly?</p>
+        <p>I’ll be glad to welcome you in my cosy flat in Lille. When are you arriving exactly?</p>
+        <p>I’ll be glad to welcome you in my cosy flat in Lille. When are you arriving exactly?</p>
+      </div>
+    </li>
+  </ul>
+  <ul class="inbox inbox-accomodation">
+    <li class="message">
+      <%= image_tag 'hotel.png', class: 'avatar-lg' %>
+      <div class="message-name">
+        <p><strong><%= l(DateTime.new(2018,6,23), format: '%a, %e %b %Y').titleize %></strong></p>
+        <p> 6:00 AM - 11:00 AM</p>
+      </div>
+      <div class="message-body">
+        <p><strong>Bigallo Youth Hostel - Hostel Bigallo</strong></p>
+        <p><strong>Via del Bigallo e Apparita 14, 50012 Il Bigallo FI, Italy</strong></p>
+        <p>I’ll be glad to welcome you in my cosy</p>
+        <p>I’ll be glad to welcome you in my cosy</p>
+        <p>I’ll be glad to welcome you in my cosy</p>
+      </div>
+      <div class="message-status">
+        <p class="status accepted"><%= t('.price') %></p>
+        <p class="price">345€</p>
+        <p><%= link_to t('.book'), "http://airbnb.com", class: "btn btn-treehouse btn-small" %></p>
+
+      </div>
+    </li>
+  </ul>
+
+</div>

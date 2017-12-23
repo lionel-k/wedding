@@ -26,6 +26,16 @@ en:
       party: Party
       santuario_maria_theotokos: Santuario Maria Theotokos
       the_big_day: The Big Day
+    travel_and_accomodation:
+      accomodation: Accomodation
+      address_loppiano: Destination - Via San Vito 28, Figline e Incisa Valdarno FI,
+        Italy
+      book: Book
+      florence_airport: Florence Airport
+      pisa_international_airport: Pisa International Airport
+      price: Price
+      travel: Travel
+      travel_and_accomodation: Travel and Accomodation
   rsvp_mailer:
     confirmation:
       confirmation_email: Thanks for sending us the RSVP
