@@ -18,10 +18,10 @@ en:
       our_story: Our Story
     stats:
       after: After
-      countries: Countries
-      flights: Flights
-      kms: Kms
-      years: Years
+      countries: Countries Visited
+      flights: Flights Back and Forth
+      kms: Kilometers
+      years: Years of waiting
     the_big_day:
       dinner: Dinner
       mass: Mass
@@ -40,9 +40,11 @@ en:
       travel_and_accomodation: Travel and Accomodation
     wedding_and_hollidays:
       arezzo: Arezzo
-      arezzo_detail_1: Arezzo detail 1
-      arezzo_detail_2: Arezzo detail 2
-      arezzo_detail_3: Arezzo detail 3
+      arezzo_detail_1: Piazza Grande
+      arezzo_detail_2: Duomo
+      arezzo_detail_3: Casa del Vasari
+      arezzo_detail_4: Sights of the movie La vita e bella
+      arezzo_detail_5: Antique Flea Market
       florence: Florence
       florence_detail_1: Cathedral of Santa Maria del Fiore
       florence_detail_2: Ponte Vecchio
@@ -51,21 +53,28 @@ en:
       florence_detail_5: Piazzale della Signoria
       florence_detail_6: Galleria d'Uffizi
       lucca: Lucca
-      lucca_detail_1: Lucca detail 1
-      lucca_detail_2: Lucca detail 2
-      lucca_detail_3: Lucca detail 3
+      lucca_detail_1: Cathedral of San Martino
+      lucca_detail_2: Porta San Pietro
+      lucca_detail_3: San Michele in Foro
+      lucca_detail_4: San Frediano Church
+      lucca_detail_5: Bothanical Garden
+      lucca_detail_5: City wall and Canals
       pisa: Pisa
-      pisa_detail_1: Pisa detail 1
-      pisa_detail_2: Pisa detail 2
-      pisa_detail_3: Pisa detail 3
+      pisa_detail_1: Cathedral, Battistero
+      pisa_detail_2: Tower of Pisa
+      pisa_detail_3: Church Maria della Spina
+      pisa_detail_3: Piazza dei Cavalieri
+      pisa_detail_3: Borgo Stretto
       san_gimignano: San gimignano
       san_gimignano_detail_1: San gimignano detail 1
       san_gimignano_detail_2: San gimignano detail 2
       san_gimignano_detail_3: San gimignano detail 3
       siena: Siena
-      siena_detail_1: Siena detail 1
-      siena_detail_2: Siena detail 2
-      siena_detail_3: Siena detail 3
+      siena_detail_1: Piazza del Campo
+      siena_detail_2: Torre del Mangia
+      siena_detail_3: Cathedral of Santa Maria Assunta
+      siena_detail_4: Battistero di San Giovanni
+      siena_detail_5: Church of San Doménico
       wedding_and_hollidays_in_tuscany: Wedding and Holidays in Tuscany
   rsvp_mailer:
     confirmation:
