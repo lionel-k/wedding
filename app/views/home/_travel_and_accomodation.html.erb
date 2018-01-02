@@ -2,14 +2,6 @@
   <%= link_to "", "", name: "travel-and-accomodation" %>
   <h2 class="text-center title"><%= t('.travel_and_accomodation') %></h2>
 
-<!--   <p class="text-center quote inbox-accomodation">
-    Do you need help with finding a suitable accommodation? We are more than happy to help you!
-    Deadline for communicating your requests:  10th March 2018
-    Please, let us know your preferences as soon as possible!
-    We have gathered some information for you:
-    Furthermore, we are not directly in touch with these accommodations, so if you would prefer these options, we kindly ask you to do your booking personally.
-  </p> -->
-
   <div class="tabs">
     <a href="#" class="tab active disable-click tab-travel"><%= t('.travel') %></a>
     <a href="#" class="tab disable-click tab-accomodation"><%= t('.accomodation') %></a>
@@ -33,7 +25,7 @@
         <p><strong>From Pisa Airport/Florence Airport To Firenze-Santa Maria Novella Railway Station</strong></p>
         <p><strong>From Pisa Airport</strong></p>
         <p>A small train to Pisa Central Station and from there a train to Firenze-Santa Maria Novella (75 mins - 8,40€) </p>
-        <p>Or a shuttle bus to Firenze-Santa Maria Novella with Terravision Bus Service (70 mins) </p>
+        <p>Or a shuttle bus to Firenze-Santa Maria Novella with Terravision Bus Service (70 mins - 6€) </p>
         <p><strong>From Florence Airport</strong></p>
         <p>Shuttles Buses go every day, from 5.30 AM to 8.30 PM (every 30 minutes) then every 60 minutes to 11:45 PM(25 mins - 6€)</p>
       </div>
@@ -72,27 +64,68 @@
       </div>
     </li>
   </ul>
+
   <ul class="inbox inbox-accomodation">
+    <!--   <p class="text-center quote inbox-accomodation">
+
+    </p> -->
     <li class="message">
-      <%= image_tag 'hotel.png', class: 'avatar-lg' %>
-      <div class="message-name">
-        <p><strong><%= l(DateTime.new(2018,6,23), format: '%a, %e %b %Y').titleize %></strong></p>
-        <p> 6:00 AM - 11:00 AM</p>
-      </div>
+      <%= image_tag 'info.svg', class: 'avatar-lg' %>
       <div class="message-body">
-        <p><strong>Bigallo Youth Hostel - Hostel Bigallo</strong></p>
-        <p><strong>Via del Bigallo e Apparita 14, 50012 Il Bigallo FI, Italy</strong></p>
-        <p>I’ll be glad to welcome you in my cosy</p>
-        <p>I’ll be glad to welcome you in my cosy</p>
-        <p>I’ll be glad to welcome you in my cosy</p>
-      </div>
-      <div class="message-status">
-        <p class="status accepted"><%= t('.price') %></p>
-        <p class="price">345€</p>
-        <p><%= link_to t('.book'), "http://airbnb.com", class: "btn btn-treehouse btn-small" %></p>
+        <p>
+          Do you need help with finding a suitable accommodation? We are more than happy to help you!
+        </p>
+        <p>
+          Deadline for communicating your requests: <strong><%= l(DateTime.new(2018,3,10), format: '%a, %e %b %Y').titleize %></strong>
+        </p>
+        <p>
+          Please, let us know your preferences as soon as possible!
+        </p>
+        <p>
+          We have gathered some information for you:
+        </p>
+        <p>
+          Furthermore, we are not directly in touch with these accommodations, so if you would prefer these options,
+        </p>
+        <p>
+          We kindly ask you to do your booking personally.
+        </p>
 
       </div>
     </li>
+
+    <li class="message">
+      <%= image_tag 'hotel.png', class: 'avatar-lg' %>
+      <div class="message-body">
+        <p><strong>Hotel in Incisa, single room with breakfast (45€/person/night) </strong></p>
+        <p><strong>Hotel in Incisa, double room with breakfast (35€/person/night) </strong></p>
+      </div>
+    </li>
+
+    <li class="message">
+      <%= image_tag 'hotel.png', class: 'avatar-lg' %>
+      <div class="message-body">
+        <p><strong>Agriturismo in Loppiano: 22€/person/night</strong></p>
+        <p><strong>Important!!!</strong></p>
+        <p>We recommend this option only for guests arriving by car, or renting a car upon arrival,</p>
+        <p>As there will be no shuttle service to these accommodations.</p>
+      </div>
+      <div class="message-status">
+        <p><%= link_to t('.details'), "https://www.booking.com/hotel/it/agriturismo-l-39-erba-alta-incisa-in-valdarno.html?aid=304142;label=gen173nr-1FCAEoggJCAlhYSDNYBGhxiAEBmAEUwgEKd2luZG93cyAxMMgBD9gBAegBAfgBC5ICAXmoAgM;sid=607ec78d238c9618e37f2753b7521785;all_sr_blocks=124564301_90566009_2_0_0&bshb=2&checkin=2018-06-21&checkout=2018-06-24&dest_id=-119245&dest_type=city&dist=0&group_adults=2&hapos=2&highlighted_blocks=124564301_90566009_2_0_0&hpos=2&room1=A%2CA&sb_price_type=total&show_room=124564301&srepoch=1512906822&srfid=aa87147c7e0ca7c681a034ec71a4310efe03b8a0X2&srpvid=fe4a53a2f8b40100&type=total&ucfs=1&", class: "btn btn-treehouse btn-small", target: "_blank" %></p>
+      </div>
+    </li>
+
+    <li class="message">
+      <%= image_tag 'hotel.png', class: 'avatar-lg' %>
+      <div class="message-body">
+        <p><strong>Bed and Breakfast in and around Incisa (50-70€/person/night)) </strong></p>
+      </div>
+      <div class="message-status">
+        <p><%= link_to t('.details'), "https://www.bed-and-breakfast.it/en/incisa-in-val-d-arno", target: "_blank", class: "btn btn-treehouse btn-small" %></p>
+      </div>
+    </li>
+
+
   </ul>
 
 </div>
