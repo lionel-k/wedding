@@ -30,10 +30,11 @@ en:
       the_big_day: The Big Day
     travel_and_accomodation:
       accomodation: Accomodation
-      address_loppiano: Address - Via San Vito 28, Figline e Incisa Valdarno FI,
-        Italy
+      address_loppiano: Address - Via San Vito 28, Figline e Incisa Valdarno FI, Italy
       book: Book
+      details: Details
       florence_airport: From the Airport of Firenze, you can take
+      how_to_arrive_to_loppiano: How to arrive to loppiano
       pisa_international_airport: From the Pisa International Airport you can take
       price: Price
       travel: Travel
@@ -57,13 +58,10 @@ en:
       lucca_detail_2: Porta San Pietro
       lucca_detail_3: San Michele in Foro
       lucca_detail_4: San Frediano Church
-      lucca_detail_5: Bothanical Garden
       lucca_detail_5: City wall and Canals
       pisa: Pisa
       pisa_detail_1: Cathedral, Battistero
       pisa_detail_2: Tower of Pisa
-      pisa_detail_3: Church Maria della Spina
-      pisa_detail_3: Piazza dei Cavalieri
       pisa_detail_3: Borgo Stretto
       san_gimignano: San gimignano
       san_gimignano_detail_1: San gimignano detail 1
@@ -96,7 +94,8 @@ en:
       your_name: Your Name
   shared:
     footer:
-      made_with_love_html: Made with <i class="fa fa-heart"></i> by Annamária and Lionel
+      made_with_love_html: Made with <i class="fa fa-heart"></i> by Annamária and
+        Lionel
     navbar:
       gallery: Gallery
       home: Home

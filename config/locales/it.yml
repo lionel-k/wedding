@@ -33,7 +33,9 @@ it:
       address_loppiano: Destination - Via San Vito 28, Figline e Incisa Valdarno FI,
         Italy
       book: Book
+      details: Details
       florence_airport: Florence Airport
+      how_to_arrive_to_loppiano: How to arrive to loppiano
       pisa_international_airport: Pisa International Airport
       price: Price
       travel: Travel
