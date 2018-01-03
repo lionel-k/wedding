@@ -32,12 +32,27 @@ it:
       accomodation: Accomodation
       address_loppiano: Destination - Via San Vito 28, Figline e Incisa Valdarno FI,
         Italy
+      arriving_loppi_1: Arriving loppi 1
+      arriving_loppi_2: Arriving loppi 2
+      arriving_loppi_3: Arriving loppi 3
+      arriving_loppi_4: Arriving loppi 4
       book: Book
+      by_car_details_1: By car details 1
+      by_car_details_2: By car details 2
       details: Details
       florence_airport: Florence Airport
+      from_florence_airport: From florence airport
+      from_florence_airport_details: From florence airport details
+      from_incisa_to_loppiano: From incisa to loppiano
+      from_incisa_to_loppiano_details: From incisa to loppiano details
+      from_pisa_airport: From pisa airport
+      from_pisa_airport_details_1: From pisa airport details 1
+      from_pisa_airport_details_2: From pisa airport details 2
       how_to_arrive_to_loppiano: How to arrive to loppiano
       pisa_international_airport: Pisa International Airport
       price: Price
+      smn_to_incisa: Smn to incisa
+      smn_to_incisa_details: Smn to incisa details
       travel: Travel
       travel_and_accomodation: Travel and Accomodation
     wedding_and_hollidays:
