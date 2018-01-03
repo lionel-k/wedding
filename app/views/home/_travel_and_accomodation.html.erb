@@ -12,10 +12,11 @@
       <%= image_tag "info.svg", class: "avatar-lg" %>
       <div class="message-body text-center">
         <p><strong><%= t('.how_to_arrive_to_loppiano') %></strong></p>
-        <p> If you are coming from abroad and wish to arrive as fast as possible, we definitely suggest that you travel by plane.</p>
-        <p>If you do not have any time pressure, and you would like to enjoy the landscape 😉, you could also consider travelling by bus, train or a car.</p>
-        <p>Two of the airports closest to Loppiano are in Pisa and Florence.</p>
-        <p>We recommend that you book your flights as early as possible to ensure reasonable ticket prices.</p>
+        <p><%= t('.arriving_loppi_1') %></p>
+        <p><%= t('.arriving_loppi_2') %></p>
+        <p><%= t('.arriving_loppi_3') %></p>
+        <p><%= t('.arriving_loppi_4') %></p>
+
       </div>
     </li>
 
@@ -23,11 +24,13 @@
       <%= image_tag "flight-landing.svg", class: "avatar-lg" %>
       <div class="message-body text-center">
         <p><strong>From Pisa Airport/Florence Airport To Firenze-Santa Maria Novella Railway Station</strong></p>
-        <p><strong>From Pisa Airport</strong></p>
-        <p>A small train to Pisa Centrale Station and from there a train to Firenze-Santa Maria Novella (90 mins - 11€) </p>
-        <p>Or a shuttle bus to Firenze-Santa Maria Novella with Terravision Bus Service (70 mins - 6€) </p>
-        <p><strong>From Florence Airport</strong></p>
-        <p>Shuttles Buses go every day, from 5.30 AM to 8.30 PM (every 30 minutes) then every 60 minutes to 11:45 PM(25 mins - 6€)</p>
+        <p><strong><%= t('.from_pisa_airport') %></strong></p>
+        <p><%= t('.from_pisa_airport_details_1') %></p>
+        <p><%= t('.from_pisa_airport_details_2') %></p>
+
+        <p><strong><%= t('.from_florence_airport') %></strong></p>
+        <p><%= t('.from_florence_airport_details') %></p>
+
       </div>
       <div class="message-status">
         <p><%= link_to t('.details'), "https://www.trainline.eu/results/pisa-aeroporto/firenze-santa-maria-novella", target: "_blank", class: "btn btn-treehouse btn-small" %></p>
@@ -38,6 +41,8 @@
       <%= image_tag "train.png", class: "avatar-lg" %>
       <div class="message-body">
         <p><strong>From Firenze-Santa Maria Novella To Incisa</strong></p>
+        <p><strong><%= t('.smn_to_incisa') %></strong></p>
+        <p><%= t('.smn_to_incisa_details') %></p>
         <p>Take the train towards Arezzo. Stop at Incisa railway station (42 min, 4-6€).</p>
       </div>
       <div class="message-status">
@@ -49,11 +54,11 @@
       <%= image_tag "bus.svg", class: "avatar-lg" %>
       <div class="message-body">
         <p><strong>From Incisa To Loppiano</strong></p>
+        <p><strong><%= t('.from_incisa_to_loppiano') %></strong></p>
+        <p><%= t('.from_incisa_to_loppiano_details') %></p>
         <p>Please, let us know the estimated time of your arrival to Incisa so that we can organise the shuttle to your accommodation.</p>
       </div>
     </li>
-
-
 
 
     <li class="message">
@@ -61,6 +66,8 @@
 
       <div class="message-body">
         <p><strong><%= t('.address_loppiano') %></strong></p>
+        <p><%= t('.by_car_details_1') %></p>
+        <p><%= t('.by_car_details_2') %></p>
         <p>
           For friends and families arriving with children or staying for a family holiday,
         </p>
