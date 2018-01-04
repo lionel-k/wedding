@@ -41,14 +41,14 @@ fr:
       by_car_details_2: By car details 2
       details: Details
       florence_airport: Aéroport de Florence
-      from_florence_airport: From florence airport
+      from_florence_airport: Depuis l'aeroport de Florence
       from_florence_airport_details: From florence airport details
       from_incisa_to_loppiano: From incisa to loppiano
       from_incisa_to_loppiano_details: From incisa to loppiano details
-      from_pisa_airport: From pisa airport
+      from_pisa_airport: Depuis l'aeroport de Pise
       from_pisa_airport_details_1: From pisa airport details 1
       from_pisa_airport_details_2: From pisa airport details 2
-      how_to_arrive_to_loppiano: How to arrive to loppiano
+      how_to_arrive_to_loppiano: Comment arriver à Loppiano
       pisa_international_airport: Aéroport International de Pisa
       price: Prix
       smn_to_incisa: Smn to incisa
@@ -121,4 +121,4 @@ fr:
       the_big_day: Le Grand Jour
       travel_and_accomodation: Voyage et Logement
       wedding_and_hollidays_in_tuscany: Mariage et Vacances en Toscane
-  who_else_is_coming_with_you: Who else is coming with you
+  who_else_is_coming_with_you: Qui d'autre viendra avec toi ?
