@@ -32,7 +32,8 @@ en:
       accomodation: Accomodation
       address_loppiano: Address - Via San Vito 28, Figline e Incisa Valdarno FI, Italy
       agriturismo_loppiano: Agriturismo in Loppiano (22€/person/night)
-      agriturismo_loppiano_infos_1: We recommend this option only for guests arriving by car, or renting a car upon arrival,
+      agriturismo_loppiano_infos_1: We recommend this option only for guests arriving
+        by car, or renting a car upon arrival,
       agriturismo_loppiano_infos_2: As there will be no shuttle service to these accommodations.
       arriving_loppi_1: If you are coming from abroad and wish to arrive as fast as
         possible, we definitely suggest that you travel by plane.
@@ -72,8 +73,10 @@ en:
       infos_accomodation_3: Deadline for communicating your requests
       infos_accomodation_4: Please, let us know your preferences as soon as possible!
       infos_accomodation_5: We have gathered some information for you
-      infos_accomodation_6: In and around Incisa there are other Bed and Breakfast possibilities too, but we are not directly in touch with these accommodations.
-      infos_accomodation_7: So if you would prefer these options below, we kindly ask you to do your booking personally.
+      infos_accomodation_6: In and around Incisa there are other Bed and Breakfast
+        possibilities too, but we are not directly in touch with these accommodations.
+      infos_accomodation_7: So if you would prefer these options below, we kindly
+        ask you to do your booking personally.
       pisa_international_airport: From the Pisa International Airport you can take
       price: Price
       smn_to_incisa: From Firenze-Santa Maria Novella To Incisa
@@ -95,6 +98,7 @@ en:
       florence_detail_4: Rose Garden
       florence_detail_5: Piazzale della Signoria
       florence_detail_6: Galleria d'Uffizi
+      further_small_towns: Further Small Towns
       lucca: Lucca
       lucca_detail_1: Cathedral of San Martino
       lucca_detail_2: Porta San Pietro
@@ -105,6 +109,8 @@ en:
       pisa_detail_1: Cathedral, Battistero
       pisa_detail_2: Tower of Pisa
       pisa_detail_3: Borgo Stretto
+      pisa_detail_4: Church Maria della Spina
+      pisa_detail_5: Piazza dei Cavalieri
       san_gimignano: San gimignano
       san_gimignano_detail_1: San gimignano detail 1
       san_gimignano_detail_2: San gimignano detail 2
@@ -115,6 +121,11 @@ en:
       siena_detail_3: Cathedral of Santa Maria Assunta
       siena_detail_4: Battistero di San Giovanni
       siena_detail_5: Church of San Doménico
+      small_town_1: San Gimignano
+      small_town_2: Cortona
+      small_town_3: Volterra
+      small_town_4: Pienza
+      small_town_5: Fiesole
       wedding_and_hollidays_in_tuscany: Wedding and Holidays in Tuscany
   rsvp_mailer:
     confirmation:

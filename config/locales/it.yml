@@ -1,6 +1,5 @@
 ---
 it:
-  agriturismo_loppiano: Agriturismo loppiano
   home:
     banner:
       are_you_coming: Are You Coming ?
@@ -84,6 +83,7 @@ it:
       florence_detail_4: Rose Garden
       florence_detail_5: Piazzale della Signoria
       florence_detail_6: Galleria d'Uffizi
+      further_small_towns: Further small towns
       lucca: Lucca
       lucca_detail_1: Cathedral of San Martino
       lucca_detail_2: Porta San Pietro
@@ -94,6 +94,8 @@ it:
       pisa_detail_1: Cathedral, Battistero
       pisa_detail_2: Tower of Pisa
       pisa_detail_3: Borgo Stretto
+      pisa_detail_4: Pisa detail 4
+      pisa_detail_5: Pisa detail 5
       san_gimignano: San gimignano
       san_gimignano_detail_1: San gimignano detail 1
       san_gimignano_detail_2: San gimignano detail 2
@@ -104,6 +106,11 @@ it:
       siena_detail_3: Cathedral of Santa Maria Assunta
       siena_detail_4: Battistero di San Giovanni
       siena_detail_5: Church of San Doménico
+      small_town_1: Small town 1
+      small_town_2: Small town 2
+      small_town_3: Small town 3
+      small_town_4: Small town 4
+      small_town_5: Small town 5
       wedding_and_hollidays_in_tuscany: Wedding and Holidays in Tuscany
   rsvp_mailer:
     confirmation:
