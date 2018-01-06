@@ -77,6 +77,9 @@
           Do you need help with finding a suitable accommodation? We are more than happy to help you!
         </p>
         <p>
+          We are personally in touch with the following accommodations, and we could make a direct booking for you at these places.
+        </p>
+        <p>
           Deadline for communicating your requests: <strong><%= l(DateTime.new(2018,3,10), format: '%a, %e %b %Y').titleize %></strong>
         </p>
         <p>
@@ -84,12 +87,6 @@
         </p>
         <p>
           We have gathered some information for you:
-        </p>
-        <p>
-          Furthermore, we are not directly in touch with these accommodations below, so if you would prefer these options,
-        </p>
-        <p>
-          We kindly ask you to do your booking personally.
         </p>
 
       </div>
@@ -111,8 +108,27 @@
         <p>We recommend this option only for guests arriving by car, or renting a car upon arrival,</p>
         <p>As there will be no shuttle service to these accommodations.</p>
       </div>
+    </li>
+
+    <li class="message">
+      <%= image_tag 'info.svg', class: 'avatar-lg' %>
+      <div class="message-body">
+        <p>
+          In and around Incisa there are other Bed and Breakfast possibilities too, but we are not directly in touch with these accommodations.
+        </p>
+        <p>
+          So if you would prefer these options below, we kindly ask you to do your booking personally.
+        </p>
+      </div>
+    </li>
+
+    <li class="message">
+      <%= image_tag 'hotel.png', class: 'avatar-lg' %>
+      <div class="message-body">
+        <p><strong>Agriturismo l'Erba Alta</strong></p>
+      </div>
       <div class="message-status">
-        <p><%= link_to t('.details'), "https://www.booking.com/hotel/it/agriturismo-l-39-erba-alta-incisa-in-valdarno.html?aid=304142;label=gen173nr-1FCAEoggJCAlhYSDNYBGhxiAEBmAEUwgEKd2luZG93cyAxMMgBD9gBAegBAfgBC5ICAXmoAgM;sid=607ec78d238c9618e37f2753b7521785;all_sr_blocks=124564301_90566009_2_0_0&bshb=2&checkin=2018-06-21&checkout=2018-06-24&dest_id=-119245&dest_type=city&dist=0&group_adults=2&hapos=2&highlighted_blocks=124564301_90566009_2_0_0&hpos=2&room1=A%2CA&sb_price_type=total&show_room=124564301&srepoch=1512906822&srfid=aa87147c7e0ca7c681a034ec71a4310efe03b8a0X2&srpvid=fe4a53a2f8b40100&type=total&ucfs=1&", class: "btn btn-treehouse btn-small", target: "_blank" %></p>
+        <p><%= link_to t('.details'), "https://www.booking.com/hotel/it/agriturismo-l-39-erba-alta-incisa-in-valdarno.html?aid=304142;label=gen173nr-1FCAEoggJCAlhYSDNYBGhxiAEBmAEUwgEKd2luZG93cyAxMMgBD9gBAegBAfgBC5ICAXmoAgM;sid=bc65b37ca5e354ea24585b737b60cfcc;all_sr_blocks=124564301_90566009_2_0_0&bshb=2&checkin=2018-06-21&checkout=2018-06-24&dest_id=-119245&dest_type=city&dist=0&group_adults=2&hapos=2&highlighted_blocks=124564301_90566009_2_0_0&hpos=2&room1=A%2CA&sb_price_type=total&show_room=124564301&srepoch=1512906822&srfid=aa87147c7e0ca7c681a034ec71a4310efe03b8a0X2&srpvid=fe4a53a2f8b40100&type=total&ucfs=1&", target: "_blank", class: "btn btn-treehouse btn-small" %></p>
       </div>
     </li>
 
