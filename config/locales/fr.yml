@@ -1,5 +1,6 @@
 ---
 fr:
+  agriturismo_loppiano: Agriturismo loppiano
   home:
     banner:
       are_you_coming: Seras-tu des nôtres ?
@@ -32,10 +33,14 @@ fr:
       accomodation: Logement
       address_loppiano: Destination - Via San Vito 28, Figline e Incisa Valdarno FI,
         Italie
+      agriturismo_loppiano: Agriturismo loppiano
+      agriturismo_loppiano_infos_1: Agriturismo loppiano infos 1
+      agriturismo_loppiano_infos_2: Agriturismo loppiano infos 2
       arriving_loppi_1: Arriving loppi 1
       arriving_loppi_2: Arriving loppi 2
       arriving_loppi_3: Arriving loppi 3
       arriving_loppi_4: Arriving loppi 4
+      bed_and_breakfast_incisa: Bed and breakfast incisa
       book: Réserver
       by_car_details_1: By car details 1
       by_car_details_2: By car details 2
@@ -48,7 +53,17 @@ fr:
       from_pisa_airport: Depuis l'aeroport de Pise
       from_pisa_airport_details_1: From pisa airport details 1
       from_pisa_airport_details_2: From pisa airport details 2
+      hotel_double_room: Hotel double room
+      hotel_single_room: Hotel single room
       how_to_arrive_to_loppiano: Comment arriver à Loppiano
+      important: Important
+      infos_accomodation_1: Infos accomodation 1
+      infos_accomodation_2: Infos accomodation 2
+      infos_accomodation_3: Infos accomodation 3
+      infos_accomodation_4: Infos accomodation 4
+      infos_accomodation_5: Infos accomodation 5
+      infos_accomodation_6: Infos accomodation 6
+      infos_accomodation_7: Infos accomodation 7
       pisa_international_airport: Aéroport International de Pisa
       price: Prix
       smn_to_incisa: Smn to incisa

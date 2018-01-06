@@ -31,27 +31,54 @@ en:
     travel_and_accomodation:
       accomodation: Accomodation
       address_loppiano: Address - Via San Vito 28, Figline e Incisa Valdarno FI, Italy
-      arriving_loppi_1: If you are coming from abroad and wish to arrive as fast as possible, we definitely suggest that you travel by plane.
-      arriving_loppi_2: If you do not have any time pressure, and you would like to enjoy the landscape, you could also consider travelling by bus, train or a car.
+      agriturismo_loppiano: Agriturismo in Loppiano (22€/person/night)
+      agriturismo_loppiano_infos_1: We recommend this option only for guests arriving by car, or renting a car upon arrival,
+      agriturismo_loppiano_infos_2: As there will be no shuttle service to these accommodations.
+      arriving_loppi_1: If you are coming from abroad and wish to arrive as fast as
+        possible, we definitely suggest that you travel by plane.
+      arriving_loppi_2: If you do not have any time pressure, and you would like to
+        enjoy the landscape, you could also consider travelling by bus, train or a
+        car.
       arriving_loppi_3: Two of the airports closest to Loppiano are in Pisa and Florence.
-      arriving_loppi_4: We recommend that you book your flights as early as possible to ensure reasonable ticket prices.
+      arriving_loppi_4: We recommend that you book your flights as early as possible
+        to ensure reasonable ticket prices.
+      bed_and_breakfast_incisa: Bed and Breakfast in and around Incisa (50-70€/person/night)
       book: Book
-      by_car_details_1: For friends and families arriving with children or staying for a family holiday,
-      by_car_details_2: We suggest renting a car, to be more independent, and to be able to schedule your stay according to your own needs and preferences.
+      by_car_details_1: For friends and families arriving with children or staying
+        for a family holiday,
+      by_car_details_2: We suggest renting a car, to be more independent, and to be
+        able to schedule your stay according to your own needs and preferences.
       details: Details
       florence_airport: From the Airport of Firenze, you can take
       from_florence_airport: From Florence Airport
-      from_florence_airport_details: Shuttle buses go every day, from 5.30 AM to 8.30 PM (every 30 minutes) then every 60 minutes to 11:45 PM(25 mins - 6€)
+      from_florence_airport_details: Shuttle buses go every day, from 5.30 AM to 8.30
+        PM (every 30 minutes) then every 60 minutes to 11:45 PM(25 mins - 6€)
       from_incisa_to_loppiano: From Incisa To Loppiano
-      from_incisa_to_loppiano_details: Please, let us know the estimated time of your arrival to Incisa so that we can organise the shuttle to your accommodation.
+      from_incisa_to_loppiano_details: Please, let us know the estimated time of your
+        arrival to Incisa so that we can organise the shuttle to your accommodation.
       from_pisa_airport: From Pisa Airport
-      from_pisa_airport_details_1: A small train to Pisa Centrale Station and from there a train to Firenze-Santa Maria Novella (90 mins - 11€)
-      from_pisa_airport_details_2: Or a shuttle bus to Firenze-Santa Maria Novella (80 mins - 6€)
+      from_pisa_airport_details_1: A small train to Pisa Centrale Station and from
+        there a train to Firenze-Santa Maria Novella (90 mins - 11€)
+      from_pisa_airport_details_2: Or a shuttle bus to Firenze-Santa Maria Novella
+        (80 mins - 6€)
+      hotel_double_room: Hotel in Incisa, double room with breakfast (35€/person/night)
+      hotel_single_room: Hotel in Incisa, single room with breakfast (45€/person/night)
       how_to_arrive_to_loppiano: How To Arrive To Loppiano
+      important: Important
+      infos_accomodation_1: Do you need help with finding a suitable accommodation?
+        We are more than happy to help you!
+      infos_accomodation_2: We are personally in touch with the following accommodations,
+        and we could make a direct booking for you at these places.
+      infos_accomodation_3: Deadline for communicating your requests
+      infos_accomodation_4: Please, let us know your preferences as soon as possible!
+      infos_accomodation_5: We have gathered some information for you
+      infos_accomodation_6: In and around Incisa there are other Bed and Breakfast possibilities too, but we are not directly in touch with these accommodations.
+      infos_accomodation_7: So if you would prefer these options below, we kindly ask you to do your booking personally.
       pisa_international_airport: From the Pisa International Airport you can take
       price: Price
       smn_to_incisa: From Firenze-Santa Maria Novella To Incisa
-      smn_to_incisa_details: Take the train towards Arezzo. Stop at Incisa railway station (42 min, 4-6€).
+      smn_to_incisa_details: Take the train towards Arezzo. Stop at Incisa railway
+        station (42 min, 4-6€).
       travel: Travel
       travel_and_accomodation: Travel and Accomodation
     wedding_and_hollidays:
