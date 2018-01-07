@@ -66,6 +66,7 @@ fr:
       hotel_single_room: Hotel in Incisa, single room with breakfast (45€/person/night)
       how_to_arrive_to_loppiano: How To Arrive To Loppiano
       important: Important
+      infos_accomodation: Do you need help with finding a suitable accommodation?
       infos_accomodation_1: Do you need help with finding a suitable accommodation?
         We are more than happy to help you!
       infos_accomodation_2: We are personally in touch with the following accommodations,
@@ -149,6 +150,7 @@ fr:
     footer:
       made_with_love_html: Made with <i class="fa fa-heart"></i> by Annamária and
         Lionel
+      thanks_to_the_translators: Thanks to the translators
     navbar:
       gallery: Gallery
       home: Home
