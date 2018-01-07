@@ -3,7 +3,7 @@ it:
   home:
     banner:
       are_you_coming: Are You Coming ?
-      location: Incisa Val D'Arno, Italy
+      location: Loppiano, Incisa Val D'Arno, Italy
     chiara_quote:
       chiara_quote: If I should have to leave this world today and you were to ask
         me for a single word, I would say 'Be a family'.
@@ -64,11 +64,10 @@ it:
         (80 mins - 6€)
       hotel_double_room: Hotel in Incisa, double room with breakfast (35€/person/night)
       hotel_single_room: Hotel in Incisa, single room with breakfast (45€/person/night)
-      how_to_arrive_to_loppiano: How To Arrive To Loppiano
+      how_to_arrive_to_loppiano: How To Arrive To Loppiano ?
       important: Important
       infos_accomodation: Do you need help with finding a suitable accommodation?
-      infos_accomodation_1: Do you need help with finding a suitable accommodation?
-        We are more than happy to help you!
+      infos_accomodation_1: We are more than happy to help you!
       infos_accomodation_2: We are personally in touch with the following accommodations,
         and we could make a direct booking for you at these places.
       infos_accomodation_3: Deadline for communicating your requests
@@ -77,7 +76,7 @@ it:
       infos_accomodation_6: In and around Incisa there are other Bed and Breakfast
         possibilities too, but we are not directly in touch with these accommodations.
       infos_accomodation_7: So if you would prefer these options below, we kindly
-        ask you to do your booking personally.
+        ask you to do your booking personally. Further options will be shared soon!
       pisa_international_airport: From the Pisa International Airport you can take
       price: Price
       smn_to_incisa: From Firenze-Santa Maria Novella To Incisa
@@ -85,7 +84,7 @@ it:
         station (42 min, 4-6€).
       travel: Travel
       travel_and_accomodation: Travel and Accomodation
-    wedding_and_hollidays:
+    wedding_and_holidays:
       arezzo: Arezzo
       arezzo_detail_1: Piazza Grande
       arezzo_detail_2: Duomo
@@ -112,10 +111,6 @@ it:
       pisa_detail_3: Borgo Stretto
       pisa_detail_4: Church Maria della Spina
       pisa_detail_5: Piazza dei Cavalieri
-      san_gimignano: San gimignano
-      san_gimignano_detail_1: San gimignano detail 1
-      san_gimignano_detail_2: San gimignano detail 2
-      san_gimignano_detail_3: San gimignano detail 3
       siena: Siena
       siena_detail_1: Piazza del Campo
       siena_detail_2: Torre del Mangia
@@ -127,7 +122,7 @@ it:
       small_town_3: Volterra
       small_town_4: Pienza
       small_town_5: Fiesole
-      wedding_and_hollidays_in_tuscany: Wedding and Holidays in Tuscany
+      wedding_and_holidays_in_tuscany: Wedding and Holidays in Tuscany
   rsvp_mailer:
     confirmation:
       confirmation_email: Thanks for sending us the RSVP
@@ -148,9 +143,8 @@ it:
       your_name: Your Name
   shared:
     footer:
-      made_with_love_html: Made with <i class="fa fa-heart"></i> by Annamária and
-        Lionel
-      thanks_to_the_translators: Thanks to the translators
+      made_with_love_html: Made with <i class="fa fa-heart"></i> by
+      thanks_to_the_translators: Many thanks for the translations to
     navbar:
       gallery: Gallery
       home: Home
@@ -159,5 +153,5 @@ it:
       sign_in: Sign in
       the_big_day: The Big Day
       travel_and_accomodation: Travel and Accomodation
-      wedding_and_hollidays_in_tuscany: Wedding and Hollidays in Tuscany
+      wedding_and_holidays_in_tuscany: Wedding and Holidays in Tuscany
   who_else_is_coming_with_you: Who else is coming with you
