@@ -2,155 +2,166 @@
 fr:
   home:
     banner:
-      are_you_coming: Seras-tu des nôtres ?
-      location: Loppiano, Incisa Val D'Arno, Italy
+      are_you_coming: Seras-tu des nôtres?
+      location: Loppiano, Incisa Val D'Arno, Italie
     chiara_quote:
-      chiara_quote: Si aujourd'hui je devais quitter cette terre et qu’une dernière parole m'était demandée, je vous dirais 'Soyez une famille'.
+      chiara_quote: Si aujourd’hui je devais quitter cette terre et qu’il m’était
+        demandé une parole je dirais 'Soyez une famille'.
     countdown:
-      days: Days
-      hours: Hours
+      days: Jours
+      hours: Heures
       minutes: Minutes
-      seconds: Seconds
-      we_are_getting_married_in: We are getting married in
+      seconds: Secondes
+      we_are_getting_married_in: Notre “OUI” dans
     our_story:
-      our_path: Our Path
-      our_story: Our Story
+      our_path: Notre Cheminement
+      our_story: Notre Histoire
     stats:
-      after: After
-      countries: Countries Visited
-      flights: Flights Back and Forth
-      kms: Kilometers
-      years: Years of waiting
+      after: Après
+      countries: Pays visités
+      flights: Vols allers-retours
+      kms: Kilomètres
+      years: Années d’attente
     the_big_day:
-      dinner: Dinner
-      mass: Mass
-      party: Party
-      santuario_maria_theotokos: Santuario Maria Theotokos
-      the_big_day: The Big Day
+      dinner: Diner
+      mass: Célébration Nuptiale
+      party: Soirée
+      santuario_maria_theotokos: Sanctuaire Marie Theotokos
+      the_big_day: Le Grand Jour
     travel_and_accomodation:
-      accomodation: Accomodation
-      address_loppiano: Address - Via San Vito 28, Figline e Incisa Valdarno FI, Italy
-      agriturismo_loppiano: Agriturismo in Loppiano (22€/person/night)
-      agriturismo_loppiano_infos_1: We recommend this option only for guests arriving
-        by car, or renting a car upon arrival,
-      agriturismo_loppiano_infos_2: As there will be no shuttle service to these accommodations.
-      arriving_loppi_1: If you are coming from abroad and wish to arrive as fast as
-        possible, we definitely suggest that you travel by plane.
-      arriving_loppi_2: If you do not have any time pressure, and you would like to
-        enjoy the landscape, you could also consider travelling by bus, train or a
-        car.
-      arriving_loppi_3: Two of the airports closest to Loppiano are in Pisa and Florence.
-      arriving_loppi_4: We recommend that you book your flights as early as possible
-        to ensure reasonable ticket prices.
-      bed_and_breakfast_incisa: Bed and Breakfast in and around Incisa (50-70€/person/night)
-      book: Book
-      by_car_details_1: For friends and families arriving with children or staying
-        for a family holiday,
-      by_car_details_2: We suggest renting a car, to be more independent, and to be
-        able to schedule your stay according to your own needs and preferences.
-      details: Details
-      florence_airport: From the Airport of Firenze, you can take
-      from_florence_airport: From Florence Airport
-      from_florence_airport_details: Shuttle buses go every day, from 5.30 AM to 8.30
-        PM (every 30 minutes) then every 60 minutes to 11:45 PM(25 mins - 6€)
-      from_incisa_to_loppiano: From Incisa To Loppiano
-      from_incisa_to_loppiano_details: Please, let us know the estimated time of your
-        arrival to Incisa so that we can organise the shuttle to your accommodation.
-      from_pisa_airport: From Pisa Airport
-      from_pisa_airport_details_1: A small train to Pisa Centrale Station and from
-        there a train to Firenze-Santa Maria Novella (90 mins - 11€)
-      from_pisa_airport_details_2: Or a shuttle bus to Firenze-Santa Maria Novella
-        (80 mins - 6€)
-      hotel_double_room: Hotel in Incisa, double room with breakfast (35€/person/night)
-      hotel_single_room: Hotel in Incisa, single room with breakfast (45€/person/night)
-      how_to_arrive_to_loppiano: How To Arrive To Loppiano ?
+      accomodation: Hébergement
+      address_loppiano: Adresse - Via San Vito 28, Figline e Incisa Valdarno FI, Italie
+      agriturismo_loppiano: Agriturismo à Loppiano (22€/personne/nuit)
+      agriturismo_loppiano_infos_1: Nous recommandons cette option uniquement aux
+        personnes qui arriveront en voiture,
+      agriturismo_loppiano_infos_2: Etant donné que ces hébergements ne disposent
+        pas de navettes.
+      arriving_loppi_1: Si vous venez de l’étranger et souhaitez arriver rapidement,
+        nous vous recommandons l’avion.
+      arriving_loppi_2: Si vous n’avez pas de contraintes de temps et souhaitez profiter
+        du magnifique paysage de la Toscane, alors nous vous recommandons de nous
+        rejoindre en voiture, bus ou train.
+      arriving_loppi_3: Les deux aéroports les plus proches sont Pise et Florence
+      arriving_loppi_4: Nous vous conseillons de réserver vos billets à l’avance afin
+        d’obtenir les meilleurs prix.
+      bed_and_breakfast_incisa: Des hôtels Bed & Breakfast autour d’Incisa (50-70€/personne/nuit)
+      book: Réserver
+      by_car_details_1: Pour nos familles et amis venant avec des enfants ou souhaitant
+        profiter d’un séjour de vacances,
+      by_car_details_2: Nous vous suggérons de prendre une voiture de location afin
+        d'être plus indépendants et organiser votre séjour selon vos préférences.
+      details: Détails
+      florence_airport: Depuis l’aéroport de Florence, vous pouvez prendre
+      from_florence_airport: Depuis l’aéroport de Florence,
+      from_florence_airport_details: Navettes de bus tous les jours, de 5.30 à 20.30
+        (toutes les 30 minutes) ensuite toutes les 60 minutes jusqu’à 23:45 (25 mins
+        - 6€)
+      from_incisa_to_loppiano: D’Incisa à Loppiano
+      from_incisa_to_loppiano_details: Merci de nous communiquer votre heure d’arrivée
+        à Incisa afin que l’on puisse organiser le service de navettes vers votre
+        hébergement.
+      from_pisa_airport: Depuis l’aéroport de Pise
+      from_pisa_airport_details_1: Un train court vous conduira à la gare centrale
+        de Pise. De là vous prendrez un autre train à destination de  Firenze-Santa
+        Maria Novella (90 mins - 11€)
+      from_pisa_airport_details_2: ou des navettes de bus à destination de Firenze-Santa
+        Maria Novella (80 mins - 6€)
+      from_pisa_florence_to_sm: De l'aéroport de Pise/Florence à la gare de Firenze-Santa
+        Maria Novella
+      hotel_double_room: Hôtel à Incisa, lit double avec petit déjeuner (35€/personne/nuit)
+      hotel_single_room: Hôtel à Incisa, lit simple avec petit déjeuner (45€/personne/nuit)
+      how_to_arrive_to_loppiano: Comment arriver à Loppiano ?
       important: Important
-      infos_accomodation: Do you need help with finding a suitable accommodation?
-      infos_accomodation_1: We are more than happy to help you!
-      infos_accomodation_2: We are personally in touch with the following accommodations,
-        and we could make a direct booking for you at these places.
-      infos_accomodation_3: Deadline for communicating your requests
-      infos_accomodation_4: Please, let us know your preferences as soon as possible!
-      infos_accomodation_5: We have gathered some information for you
-      infos_accomodation_6: In and around Incisa there are other Bed and Breakfast
-        possibilities too, but we are not directly in touch with these accommodations.
-      infos_accomodation_7: So if you would prefer these options below, we kindly
-        ask you to do your booking personally. Further options will be shared soon!
-      pisa_international_airport: From the Pisa International Airport you can take
-      price: Price
-      smn_to_incisa: From Firenze-Santa Maria Novella To Incisa
-      smn_to_incisa_details: Take the train towards Arezzo. Stop at Incisa railway
-        station (42 min, 4-6€).
-      travel: Travel
-      travel_and_accomodation: Travel and Accomodation
+      infos_accomodation: Besoin d’aide pour trouver un hébergement?
+      infos_accomodation_1: Nous sommes ravis de vous aider!
+      infos_accomodation_2: Nous sommes déjà en contact avec les hébergements suivant
+        et pouvons par conséquent vous aider à y faire votre réservation.
+      infos_accomodation_3: Date limite pour nous faire parvenir vos demandes
+      infos_accomodation_4: Faites nous savoir vos préférences le plus tôt possible!
+      infos_accomodation_5: Nous avons réuni des informations pour vous
+      infos_accomodation_6: Il existe autour d’Incisa d’autres possibilités d’Hôtels
+        Bed & Breakfast, mais nous ne sommes pas en contact direct avec eux.
+      infos_accomodation_7: Si par conséquent vous choisissez une des options ci-dessous,
+        alors nous vous recommandons de procéder vous même à votre réservation. Nous
+        vous communiquerons d’autres possibilités ultérieurement!
+      pisa_international_airport: Depuis l’aéroport de Pise vous pouvez prendre
+      price: Tarif
+      smn_to_incisa: De Firenze-Santa Maria Novella à Incisa
+      smn_to_incisa_details: Prendre le train à destination d’Arezzo. Descendre à
+        la station Incisa (42 min, 4-6€).
+      travel: Transport
+      travel_and_accomodation: Transport et Hébergement
     wedding_and_holidays:
       arezzo: Arezzo
       arezzo_detail_1: Piazza Grande
       arezzo_detail_2: Duomo
       arezzo_detail_3: Casa del Vasari
-      arezzo_detail_4: Sights of the movie La vita e bella
+      arezzo_detail_4: Lieux du tournage du film “La vita e bella”
       arezzo_detail_5: Antique Flea Market
       florence: Florence
-      florence_detail_1: Cathedral of Santa Maria del Fiore
+      florence_detail_1: Cathédrale Santa Maria del Fiore
       florence_detail_2: Ponte Vecchio
       florence_detail_3: Piazzale Michaelangelo
       florence_detail_4: Rose Garden
       florence_detail_5: Piazzale della Signoria
       florence_detail_6: Galleria d'Uffizi
-      further_small_towns: Further Small Towns
+      further_small_towns: Autres localités
+      holidays_infos_1: Tu planifies de venir à notre mariage ? Pourquoi ne pas associer ta venue à des vacances en Toscane ?
+      holidays_infos_2: Nous avons rassemblé pour vous une collection des plus belles villes et curiosités de la Toscane!
+      holidays_infos_3: Mais surtout, n'oubliez pas de profiter d'un moment de détente avec les meilleures glaces italiennes !! ;)
       lucca: Lucca
-      lucca_detail_1: Cathedral of San Martino
-      lucca_detail_2: Porta San Pietro
+      lucca_detail_1: Cathédrale San Martino
+      lucca_detail_2: Porte San Pietro
       lucca_detail_3: San Michele in Foro
       lucca_detail_4: San Frediano Church
-      lucca_detail_5: City wall and Canals
+      lucca_detail_5: Remparts et canaux
       pisa: Pisa
-      pisa_detail_1: Cathedral, Battistero
-      pisa_detail_2: Tower of Pisa
+      pisa_detail_1: Cathédrale, Baptistère
+      pisa_detail_2: Tour de Pise
       pisa_detail_3: Borgo Stretto
-      pisa_detail_4: Church Maria della Spina
+      pisa_detail_4: Eglise Maria della Spina
       pisa_detail_5: Piazza dei Cavalieri
       siena: Siena
       siena_detail_1: Piazza del Campo
       siena_detail_2: Torre del Mangia
-      siena_detail_3: Cathedral of Santa Maria Assunta
-      siena_detail_4: Battistero di San Giovanni
-      siena_detail_5: Church of San Doménico
+      siena_detail_3: Cathédrale Santa Maria Assunta
+      siena_detail_4: Baptistère de San Giovanni
+      siena_detail_5: Eglise de San Doménico
       small_town_1: San Gimignano
       small_town_2: Cortona
       small_town_3: Volterra
       small_town_4: Pienza
       small_town_5: Fiesole
-      wedding_and_holidays_in_tuscany: Wedding and Holidays in Tuscany
+      wedding_and_holidays_in_tuscany: Mariage et Séjour en Toscane
   rsvp_mailer:
     confirmation:
-      confirmation_email: Thanks for sending us the RSVP
+      confirmation_email: Merci de nous faire parvenir vos réponses SVP
   rsvps:
     new:
-      are_you_coming: Are you coming ?
-      consideration: Please, let us know, if you have any special considerations,
-        food intolerance, allergies.
-      let_us_know_if_you_will_make_it: Let us know if you will make it
-      no_i_wont_be_able: No, I won't be able to come.
-      no_thank_you: No, Thank you.
-      send_rsvp: Send RSVP
-      who_else_is_coming_with_you: Who else is coming with you ?
-      would_you_like_us_to_help_you_with_the_accomodation: Would you like us to help
-        you with the accomodation ?
-      yes_i_am_coming: Yes, I am coming.
-      yes_please: Yes, Please.
-      your_name: Your Name
+      are_you_coming: Seras-tu des nôtres ?
+      consideration: Faites nous savoir si vous avez des intolérances alimentaires
+        et allergies.
+      let_us_know_if_you_will_make_it: Faites nous savoir si vous serez de la fête
+      no_i_wont_be_able: Non, je ne serai pas de la fête.
+      no_thank_you: Non, Merci.
+      send_rsvp: Envoyer RSVP
+      who_else_is_coming_with_you: De qui serez vous accompagné ?
+      would_you_like_us_to_help_you_with_the_accomodation: Souhaitez vous notre aide
+        pour l’hébergement?
+      yes_i_am_coming: Oui, je serai de la fête.
+      yes_please: Oui, Merci.
+      your_name: Nom
   shared:
     footer:
       made_with_love_html: Made with <i class="fa fa-heart"></i> by
-      thanks_to_the_translators: Many thanks for the translations to
+      thanks_to_the_translators: Un grand Merci aux traducteurs
     navbar:
-      gallery: Gallery
-      home: Home
-      our_story: Our Story
+      gallery: Galerie
+      home: Accueil
+      our_story: Notre Histoire
       rsvp: RSVP
-      sign_in: Sign in
-      the_big_day: The Big Day
-      travel_and_accomodation: Travel and Accomodation
-      wedding_and_holidays_in_tuscany: Wedding and Holidays in Tuscany
-  who_else_is_coming_with_you: Who else is coming with you
+      sign_in: Accéder
+      the_big_day: Le Grand Jour
+      travel_and_accomodation: Transport et Hébergement
+      wedding_and_holidays_in_tuscany: Mariage et Séjour en Toscane
+  who_else_is_coming_with_you: De qui serez vous accompagné?
