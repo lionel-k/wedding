@@ -5,7 +5,8 @@ hu:
       are_you_coming: Ott leszel?
       location: Loppiano, Incisa Val D'Arno, Italy
     chiara_quote:
-      chiara_quote: Ha ma el kellene hagynom ezt a világot, és egyetlen szót kérnétek tőlem, akkor azt mondanám, hogy 'Legyetek egy család'.
+      chiara_quote: Ha ma el kellene hagynom ezt a világot, és egyetlen szót kérnétek
+        tőlem, akkor azt mondanám, hogy 'Legyetek egy család'.
     countdown:
       days: Days
       hours: Hours
@@ -61,6 +62,8 @@ hu:
         there a train to Firenze-Santa Maria Novella (90 mins - 11€)
       from_pisa_airport_details_2: Or a shuttle bus to Firenze-Santa Maria Novella
         (80 mins - 6€)
+      from_pisa_florence_to_sm: From Pisa Airport/Florence Airport To Firenze-Santa
+        Maria Novella Railway Station
       hotel_double_room: Hotel in Incisa, double room with breakfast (35€/person/night)
       hotel_single_room: Hotel in Incisa, single room with breakfast (45€/person/night)
       how_to_arrive_to_loppiano: How To Arrive To Loppiano ?
@@ -98,6 +101,9 @@ hu:
       florence_detail_5: Piazzale della Signoria
       florence_detail_6: Galleria d'Uffizi
       further_small_towns: Further Small Towns
+      holidays_infos_1: Are you planning to come to our wedding? How about combining your visit with an amazing holiday in Tuscany?
+      holidays_infos_2: We have put together a collection of the most beautiful cites and sights of Tuscany for you!
+      holidays_infos_3: But above all, do not forget to enjoy a relaxed moment with the Best Italian Ice Creams!! ;)
       lucca: Lucca
       lucca_detail_1: Cathedral of San Martino
       lucca_detail_2: Porta San Pietro
