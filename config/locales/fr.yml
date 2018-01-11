@@ -106,9 +106,12 @@ fr:
       florence_detail_5: Piazzale della Signoria
       florence_detail_6: Galleria d'Uffizi
       further_small_towns: Autres localités
-      holidays_infos_1: Tu planifies de venir à notre mariage ? Pourquoi ne pas associer ta venue à des vacances en Toscane ?
-      holidays_infos_2: Nous avons rassemblé pour vous une collection des plus belles villes et curiosités de la Toscane!
-      holidays_infos_3: Mais surtout, n'oubliez pas de profiter d'un moment de détente avec les meilleures glaces italiennes !! ;)
+      holidays_infos_1: Tu planifies de venir à notre mariage ? Pourquoi ne pas associer
+        ta venue à des vacances en Toscane ?
+      holidays_infos_2: Nous avons rassemblé pour vous une collection des plus belles
+        villes et curiosités de la Toscane!
+      holidays_infos_3: Mais surtout, n'oubliez pas de profiter d'un moment de détente
+        avec les meilleures glaces italiennes !! ;)
       lucca: Lucca
       lucca_detail_1: Cathédrale San Martino
       lucca_detail_2: Porte San Pietro
@@ -133,6 +136,9 @@ fr:
       small_town_4: Pienza
       small_town_5: Fiesole
       wedding_and_holidays_in_tuscany: Mariage et Séjour en Toscane
+  layouts:
+    application:
+      wedding: Mariage
   rsvp_mailer:
     confirmation:
       confirmation_email: Merci de nous faire parvenir vos réponses SVP
@@ -153,7 +159,7 @@ fr:
       your_name: Nom
   shared:
     footer:
-      made_with_love_html: Made with <i class="fa fa-heart"></i> by
+      made_with_love_html: Fait avec <i class="fa fa-heart"></i> par
       thanks_to_the_translators: Un grand Merci aux traducteurs
     navbar:
       gallery: Galerie

@@ -3,6 +3,7 @@ class RsvpsController < ApplicationController
 
   def new
     @rsvp = Rsvp.new
+    @title = "RSVP - Annamária and Lionel"
   end
 
   def create
