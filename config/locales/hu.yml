@@ -30,14 +30,14 @@ hu:
     travel_and_accomodation:
       accomodation: Szállás
       address_loppiano: Cím - Via San Vito 28, Figline e Incisa Valdarno FI, Olaszország
-      agriturismo_loppiano: Agriturismo Loppianóban (22€/fő/éj)
+      agriturismo_loppiano: Agriturismo Loppianoban (22€/fő/éj)
       agriturismo_loppiano_infos_1: Azoknak a vendégeknek ajánljuk, akik autóval érkeznek, vagy
         érkezéskor autót bérelnek,
       agriturismo_loppiano_infos_2: mivel erre a szálláshelyre nem tudunk fuvart biztosítani.
       arriving_loppi_1: Ha külföldről érkezel és nem akarsz hosszú órákat utazni, javasoljuk, hogy repülővel
         gyere.
       arriving_loppi_2: Ha utazás közben szeretnéd csodálni a tájat, és nem bánod ha kicsit tovább tart amíg megérkezel, akkor busszal, vonattal vagy autóval is jöhetsz.
-      arriving_loppi_3: Loppianóhoz eső két legközelebbi repülőtér Pisában és Firenzében található.
+      arriving_loppi_3: Loppianohoz eső két legközelebbi repülőtér Pisában és Firenzében található.
       arriving_loppi_4: Javasoljuk, hogy minél hamarabb foglald le a repjegyed, így elkerülheted a magas
         árakat.
       bed_and_breakfast_incisa: Szállás reggelivel Incisában és környékén (50-70€/fő/éj)
@@ -51,7 +51,7 @@ hu:
       from_florence_airport: Firenzei repülőtérről
       from_florence_airport_details: Repülőtéri buszjárat közlekedik minden nap reggel 5:30 és este 20:30
         között 30 percenként, majd este 23:45-ig 60 percenként (25 perc - 6€)
-      from_incisa_to_loppiano: Incisából Loppianóba
+      from_incisa_to_loppiano: Incisából Loppianoba
       from_incisa_to_loppiano_details: Kérünk tudasd velünk hogy mikor érkezel Incisába, hogy
         megszervezhessük a fuvart a szállásodra.
       from_pisa_airport: Pisai repülőtérről
