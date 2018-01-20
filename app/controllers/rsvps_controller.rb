@@ -12,9 +12,9 @@ class RsvpsController < ApplicationController
     @rsvp = Rsvp.new(rsvp_params)
     if @rsvp.save
       existing_rsvp.destroy if existing_rsvp
-      # RsvpMailer.confirmation(@rsvp.guest).deliver_later
+      RsvpMailer.confirmation(@rsvp.guest).deliver_later
+      flash[:notice] = "#{@rsvp.guest.first_name}, #{t('rsvp_mailer.confirmation.thanks_for_the_confirmation')}"
       redirect_to root_path
-      # redirect_to new_rsvp_path
     else
       render 'rsvps/new'
     end
