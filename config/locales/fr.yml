@@ -3,6 +3,7 @@ fr:
   home:
     banner:
       are_you_coming: Seras-tu des nôtres?
+      deadline_sending_rsvp: Date limite d'envoi du RSVP
       location: Loppiano, Incisa Val D'Arno, Italie
     chiara_quote:
       chiara_quote: Si aujourd’hui je devais quitter cette terre et qu’il m’était
@@ -152,7 +153,7 @@ fr:
       let_us_know_if_you_will_make_it: Faites nous savoir si vous serez de la fête
       no_i_wont_be_able: Non, je ne serai pas de la fête.
       no_thank_you: Non, Merci.
-      send_rsvp: Envoyer RSVP
+      send_rsvp: Envoi du RSVP
       who_else_is_coming_with_you: De qui serez vous accompagné ?
       would_you_like_us_to_help_you_with_the_accomodation: Souhaitez vous notre aide
         pour l’hébergement?

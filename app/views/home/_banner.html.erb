@@ -14,6 +14,8 @@
       </div>
 
       <%= link_to t('.are_you_coming'), new_rsvp_path, class: "btn btn-treehouse btn-lg" %>
+
+      <h3><%= t('.deadline_sending_rsvp') %>: <%= l(DateTime.new(2018,5,10), format: '%e %B %Y').titleize %></h3>
     </div>
   </div>
 </div>
