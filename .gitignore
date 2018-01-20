@@ -12,6 +12,8 @@ public/packs-test
 node_modules
 .byebug_history
 db/guests.csv
+guests.rb
+guests.txt
 
 # Ignore application configuration
 /config/application.yml
