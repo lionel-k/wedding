@@ -3,11 +3,11 @@ it:
   home:
     banner:
       are_you_coming: Are You Coming ?
-      deadline_sending_rsvp: Deadline sending rsvp
+      deadline_sending_rsvp: The deadline for sending the RSVP is on the 10th May !
       location: Loppiano, Incisa Val D'Arno, Italy
     chiara_quote:
-      chiara_quote: Se oggi dovessi lasciare questa terra e mi si chiedesse una parola,
-        vi direi 'Siate una famiglia'.
+      chiara_quote: If I should have to leave this world today and you were to ask
+        me for a single word, I would say 'Be a family'.
     countdown:
       days: Days
       hours: Hours
@@ -70,16 +70,16 @@ it:
       how_to_arrive_to_loppiano: How To Arrive To Loppiano ?
       important: Important
       infos_accomodation: Do you need help with finding a suitable accommodation?
-      infos_accomodation_1: We are more than happy to help you!
+      infos_accomodation_1: We are more than happy to help you !
       infos_accomodation_2: We are personally in touch with the following accommodations,
         and we could make a direct booking for you at these places.
       infos_accomodation_3: Deadline for communicating your requests
-      infos_accomodation_4: Please, let us know your preferences as soon as possible!
+      infos_accomodation_4: Please, let us know your preferences as soon as possible !
       infos_accomodation_5: We have gathered some information for you
       infos_accomodation_6: In and around Incisa there are other Bed and Breakfast
         possibilities too, but we are not directly in touch with these accommodations.
       infos_accomodation_7: So if you would prefer these options below, we kindly
-        ask you to do your booking personally. Further options will be shared soon!
+        ask you to do your booking personally. Further options will be shared soon !
       pisa_international_airport: From the Pisa International Airport you can take
       price: Price
       smn_to_incisa: From Firenze-Santa Maria Novella To Incisa
@@ -102,12 +102,12 @@ it:
       florence_detail_5: Piazzale della Signoria
       florence_detail_6: Galleria d'Uffizi
       further_small_towns: Further Small Towns
-      holidays_infos_1: Are you planning to come to our wedding? How about combining
-        your visit with an amazing holiday in Tuscany?
+      holidays_infos_1: Avez-vous l'intention de venir à notre mariage? Que diriez-vous
+        de combiner votre visite avec des vacances incroyables en Toscane?
       holidays_infos_2: We have put together a collection of the most beautiful cites
-        and sights of Tuscany for you!
+        and sights of Tuscany for you !
       holidays_infos_3: But above all, do not forget to enjoy a relaxed moment with
-        the Best Italian Ice Creams!! ;)
+        the Best Italian Ice Creams ! ! ;)
       lucca: Lucca
       lucca_detail_1: Cathedral of San Martino
       lucca_detail_2: Porta San Pietro
@@ -137,21 +137,28 @@ it:
       wedding: Wedding
   rsvp_mailer:
     confirmation:
-      confirmation_email: Grazie per la conferma
-      see_you_soon: Arrivederci
-      thanks_for_the_confirmation: Grazie per averci inviato la conferma
+      confirmation_email: Thanks for sending us the RSVP
+      see_you_soon: See you soon
+      thanks_for_the_confirmation: Thanks for the confirmation
   rsvps:
     new:
       are_you_coming: Are you coming ?
       consideration: Please, let us know, if you have any special considerations,
         food intolerance, allergies.
-      let_us_know_if_you_will_make_it: Let us know if you will make it
+      deadline_for_accomodation_requests_html: The deadline for communicating your
+        requests regarding the accomodation is on the <strong>10th March</strong> !
+      deadline_sending_rsvp_html: The deadline for sending the RSVP is on the <strong>10th
+        May</strong> !
+      let_us_know_if_you_will_make_it: Let us know if you will make it..
       no_i_wont_be_able: No, I won't be able to come.
-      no_thank_you: No, Thank you.
+      no_thank_you: No, thank you. I am arranging the accommodation for myself.
       send_rsvp: Send RSVP
       who_else_is_coming_with_you: Who else is coming with you ?
       would_you_like_us_to_help_you_with_the_accomodation: Would you like us to help
         you with the accomodation ?
+      yes_agriturismo_loppiano: Yes, please. I would like to stay in the Agriturismo in Loppiano.
+      yes_hotel_incisa_double_room: Yes, please. I would like to stay in the Hotel in Incisa, in a single room with breakfast.
+      yes_hotel_incisa_single_room: Yes, please. I would like to stay in the Hotel in Incisa, in a double room with breakfast.
       yes_i_am_coming: Yes, I am coming.
       yes_please: Yes, Please.
       your_name: Your Name
