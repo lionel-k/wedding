@@ -31,36 +31,41 @@ hu:
       accomodation: Szállás
       address_loppiano: Cím - Via San Vito 28, Figline e Incisa Valdarno FI, Olaszország
       agriturismo_loppiano: Agriturismo Loppianoban (22€/fő/éj)
-      agriturismo_loppiano_infos_1: Azoknak a vendégeknek ajánljuk, akik autóval érkeznek, vagy
-        érkezéskor autót bérelnek,
+      agriturismo_loppiano_infos_1: Azoknak a vendégeknek ajánljuk, akik autóval érkeznek,
+        vagy érkezéskor autót bérelnek,
       agriturismo_loppiano_infos_2: mivel erre a szálláshelyre nem tudunk fuvart biztosítani.
-      arriving_loppi_1: Ha külföldről érkezel és nem akarsz hosszú órákat utazni, javasoljuk, hogy repülővel
-        gyere.
-      arriving_loppi_2: Ha utazás közben szeretnéd csodálni a tájat, és nem bánod ha kicsit tovább tart amíg megérkezel, akkor busszal, vonattal vagy autóval is jöhetsz.
-      arriving_loppi_3: Loppianohoz eső két legközelebbi repülőtér Pisában és Firenzében található.
-      arriving_loppi_4: Javasoljuk, hogy minél hamarabb foglald le a repjegyed, így elkerülheted a magas
-        árakat.
+      arriving_loppi_1: Ha külföldről érkezel és nem akarsz hosszú órákat utazni,
+        javasoljuk, hogy repülővel gyere.
+      arriving_loppi_2: Ha utazás közben szeretnéd csodálni a tájat, és nem bánod
+        ha kicsit tovább tart amíg megérkezel, akkor busszal, vonattal vagy autóval
+        is jöhetsz.
+      arriving_loppi_3: Loppianohoz eső két legközelebbi repülőtér Pisában és Firenzében
+        található.
+      arriving_loppi_4: Javasoljuk, hogy minél hamarabb foglald le a repjegyed, így
+        elkerülheted a magas árakat.
       bed_and_breakfast_incisa: Szállás reggelivel Incisában és környékén (50-70€/fő/éj)
       book: Foglalás
-      by_car_details_1: Azoknak a barátainknak és családoknak akik kisgyermekkel érkeznek, vagy tovább
-        maradnak családi nyaralásra,
-      by_car_details_2: javasoljuk hogy béreljenek személyautót, ami nagyobb önállóságot biztosít,
-        lehetővé téve, hogy saját igényeiknek megfelelően tervezzék meg a programjukat.
+      by_car_details_1: Azoknak a barátainknak és családoknak akik kisgyermekkel érkeznek,
+        vagy tovább maradnak családi nyaralásra,
+      by_car_details_2: javasoljuk hogy béreljenek személyautót, ami nagyobb önállóságot
+        biztosít, lehetővé téve, hogy saját igényeiknek megfelelően tervezzék meg
+        a programjukat.
       details: Részletek
       florence_airport: Megközelítés a firenzei reptérről
       from_florence_airport: Firenzei repülőtérről
-      from_florence_airport_details: Repülőtéri buszjárat közlekedik minden nap reggel 5:30 és este 20:30
-        között 30 percenként, majd este 23:45-ig 60 percenként (25 perc - 6€)
+      from_florence_airport_details: Repülőtéri buszjárat közlekedik minden nap reggel
+        5:30 és este 20:30 között 30 percenként, majd este 23:45-ig 60 percenként
+        (25 perc - 6€)
       from_incisa_to_loppiano: Incisából Loppianoba
-      from_incisa_to_loppiano_details: Kérünk tudasd velünk hogy mikor érkezel Incisába, hogy
-        megszervezhessük a fuvart a szállásodra.
+      from_incisa_to_loppiano_details: Kérünk tudasd velünk hogy mikor érkezel Incisába,
+        hogy megszervezhessük a fuvart a szállásodra.
       from_pisa_airport: Pisai repülőtérről
-      from_pisa_airport_details_1: Vonattal Pisa központi pályaudvarra (Pisa Centrale) és onnan
-        vonattal Firenze-Santa Maria Novella vasútállomásra (90 perc - 11€)
-      from_pisa_airport_details_2: Vagy repülőtéri buszjárattal Firenze-Santa Maria Novellába
-        (80 perc - 6€)
-      from_pisa_florence_to_sm: A pisai/firenzei reptérről Firenze-Santa
-        Maria Novella vasútállomásra
+      from_pisa_airport_details_1: Vonattal Pisa központi pályaudvarra (Pisa Centrale)
+        és onnan vonattal Firenze-Santa Maria Novella vasútállomásra (90 perc - 11€)
+      from_pisa_airport_details_2: Vagy repülőtéri buszjárattal Firenze-Santa Maria
+        Novellába (80 perc - 6€)
+      from_pisa_florence_to_sm: A pisai/firenzei reptérről Firenze-Santa Maria Novella
+        vasútállomásra
       hotel_double_room: Hotel Incisában, kétágyas szoba reggelivel (35€/fő/éj)
       hotel_single_room: Hotel Incisában, egyágyas szoba reggelivel (45€/fő/éj)
       how_to_arrive_to_loppiano: Hogyan érkezz Loppianoba ?
@@ -72,15 +77,16 @@ hu:
       infos_accomodation_3: Határidő a visszajelzésre
       infos_accomodation_4: Kérünk tudasd velünk preferenciád minél hamarabb!
       infos_accomodation_5: Összegyűjtöttünk néhány információt számodra
-      infos_accomodation_6: Incisában és környékén egyéb szálláslehetőségek
-        is vannak, amikkel azonban nem állunk személyes kapcsolatban.
-      infos_accomodation_7: Ha ezen lehetőségek egyikét részesíted előnyben, kérünk hogy
-        szállásfoglalásodat személyesen intézd. További lehetőségeket is megosztunk hamarosan!
+      infos_accomodation_6: Incisában és környékén egyéb szálláslehetőségek is vannak,
+        amikkel azonban nem állunk személyes kapcsolatban.
+      infos_accomodation_7: Ha ezen lehetőségek egyikét részesíted előnyben, kérünk
+        hogy szállásfoglalásodat személyesen intézd. További lehetőségeket is megosztunk
+        hamarosan!
       pisa_international_airport: Megközelítés Pisa nemzetközi repteréről
       price: Árak
       smn_to_incisa: Firenze-Santa Maria Novellából Incisába
-      smn_to_incisa_details: Szállj fel a vonatra Arezzo felé, majd szállj le Incisa vasútállomásnál (42 perc,
-        4-6€).
+      smn_to_incisa_details: Szállj fel a vonatra Arezzo felé, majd szállj le Incisa
+        vasútállomásnál (42 perc, 4-6€).
       travel: Utazás
       travel_and_accomodation: Utazás és Szállás
     wedding_and_holidays:
@@ -88,7 +94,7 @@ hu:
       arezzo_detail_1: Piazza Grande
       arezzo_detail_2: Dóm
       arezzo_detail_3: Vasari-ház
-      arezzo_detail_4: “Az élet szép” című film forgatásának helyszínei
+      arezzo_detail_4: "“Az élet szép” című film forgatásának helyszínei"
       arezzo_detail_5: Antik bolhapiac
       florence: Firenze
       florence_detail_1: Santa Maria del Fiore katedrális
@@ -98,10 +104,11 @@ hu:
       florence_detail_5: Piazzale della Signoria
       florence_detail_6: Uffizi képtár
       further_small_towns: További Kisvárosok
-      holidays_infos_1: Tervezel részt venni az esküvőnkön? Mi lenne ha összekötnéd látogatásod
-        egy csodálatos nyaralással Toszkánában?
+      holidays_infos_1: Tervezel részt venni az esküvőnkön? Mi lenne ha összekötnéd
+        látogatásod egy csodálatos nyaralással Toszkánában?
       holidays_infos_2: Összeállítottunk egy csokrot Toszkána legszebb látnivalóival!
-      holidays_infos_3: De semmiképp se hagyd ki a legjobb olasz fagyikat! Panni ajánlásával! ;)
+      holidays_infos_3: De semmiképp se hagyd ki a legjobb olasz fagyikat! Panni ajánlásával!
+        ;)
       lucca: Lucca
       lucca_detail_1: San Martino katedrális
       lucca_detail_2: Porta San Pietro
@@ -132,18 +139,20 @@ hu:
   rsvp_mailer:
     confirmation:
       confirmation_email: Köszönjük a visszajelzést
+      see_you_soon: Hamarosan találkozunk
+      thanks_for_the_confirmation: Köszönjük a visszajelzést
   rsvps:
     new:
       are_you_coming: Ott leszel ?
-      consideration: Kérünk, hogy tudasd velünk, ha bármilyen különleges kérésed, étel intoleranciád vagy
-        allergiád van.
+      consideration: Kérünk, hogy tudasd velünk, ha bármilyen különleges kérésed,
+        étel intoleranciád vagy allergiád van.
       let_us_know_if_you_will_make_it: Számíthatunk Rád?
       no_i_wont_be_able: Nem, sajnos nem tudok részt venni.
       no_thank_you: Nem, köszönöm.
       send_rsvp: Visszajelzés küldése
       who_else_is_coming_with_you: Kivel érkezel?
-      would_you_like_us_to_help_you_with_the_accomodation: Szeretnéd ha segítenénk a
-        szálláskeresésben ?
+      would_you_like_us_to_help_you_with_the_accomodation: Szeretnéd ha segítenénk
+        a szálláskeresésben ?
       yes_i_am_coming: Igen, jövök.
       yes_please: Igen.
       your_name: Név

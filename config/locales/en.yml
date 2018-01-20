@@ -137,6 +137,8 @@ en:
   rsvp_mailer:
     confirmation:
       confirmation_email: Thanks for sending us the RSVP
+      see_you_soon: See you soon
+      thanks_for_the_confirmation: Thanks for the confirmation
   rsvps:
     new:
       are_you_coming: Are you coming ?

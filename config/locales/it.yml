@@ -136,7 +136,9 @@ it:
       wedding: Wedding
   rsvp_mailer:
     confirmation:
-      confirmation_email: Thanks for sending us the RSVP
+      confirmation_email: Grazie per la conferma
+      see_you_soon: Arrivederci
+      thanks_for_the_confirmation: Grazie per averci inviato la conferma
   rsvps:
     new:
       are_you_coming: Are you coming ?

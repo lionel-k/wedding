@@ -141,7 +141,9 @@ fr:
       wedding: Mariage
   rsvp_mailer:
     confirmation:
-      confirmation_email: Merci de nous faire parvenir vos réponses SVP
+      confirmation_email: Merci pour ta réponse
+      see_you_soon: A très bientôt
+      thanks_for_the_confirmation: Nous te remercions pour l'envoi de ta confirmation
   rsvps:
     new:
       are_you_coming: Seras-tu des nôtres ?
