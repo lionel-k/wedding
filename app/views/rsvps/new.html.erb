@@ -1,5 +1,7 @@
 <div class="container form">
-  <h2 class="text-center"><%= t('.let_us_know_if_you_will_make_it') %></h2>
+  <h2 class="text-center green"><%= t('.let_us_know_if_you_will_make_it') %></h2>
+  <p class="text-center"><%= t('.deadline_for_accomodation_requests_html') %></p>
+  <p class="text-center"><%= t('.deadline_sending_rsvp_html') %></p>
   <div class="row">
     <div class="col-xs-12 col-sm-6 col-sm-offset-3">
 
@@ -9,7 +11,7 @@
           <%= f.association :guest, collection: Guest.all.order(:first_name).map {|guest| [guest.full_name, guest.id]}, prompt: "Christopher West", label: t('.your_name'), input_html: { class: 'select2 form-control' }, required: true %>
 
           <%= f.input :is_attending, collection: [[t('.yes_i_am_coming'), true], [t('.no_i_wont_be_able'), false]] ,label: t('.are_you_coming'), class: "form-control", required: true %>
-          <%= f.input :needs_accomodation, collection: [[t('.yes_please'), true], [t('.no_thank_you'), false]], label: t('.would_you_like_us_to_help_you_with_the_accomodation'), required: true %>
+          <%= f.input :needs_accomodation, collection: [[t('.yes_hotel_incisa_single_room'), "yes_hotel_incisa_single_room"], [t('.yes_hotel_incisa_double_room'), "yes_hotel_incisa_double_room"], [t('.yes_agriturismo_loppiano'), "yes_agriturismo_loppiano"], [t('.no_thank_you'), "no_thank_you"]] , label: t('.would_you_like_us_to_help_you_with_the_accomodation'), required: true %>
           <%= f.input :additionals, label: t('.who_else_is_coming_with_you') %>
           <%= f.input :consideration, label: t('.consideration'), input_html: { style: 'width: 100%', rows: 5 }  %>
           <%= f.submit t('.send_rsvp'), class: "btn btn-treehouse btn-lg" %>
