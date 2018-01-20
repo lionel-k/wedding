@@ -7,12 +7,14 @@ class RsvpsController < ApplicationController
   end
 
   def create
-    @rsvp = Rsvp.find_by_guest_id(params[:rsvp][:guest_id])
-    @rsvp ||= Rsvp.new
-    @rsvp.update(rsvp_params)
+    existing_rsvp = Rsvp.find_by_guest_id(params[:rsvp][:guest_id])
+
+    @rsvp = Rsvp.new(rsvp_params)
     if @rsvp.save
-      RsvpMailer.confirmation(@rsvp.guest).deliver_later
+      existing_rsvp.destroy if existing_rsvp
+      # RsvpMailer.confirmation(@rsvp.guest).deliver_later
       redirect_to root_path
+      # redirect_to new_rsvp_path
     else
       render 'rsvps/new'
     end
