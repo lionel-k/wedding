@@ -1,5 +1,10 @@
 class RsvpsController < ApplicationController
-  skip_before_action :authenticate_user!, only: [:new, :create]
+  skip_before_action :authenticate_user!, only: [:new, :create, :index]
+
+  def index
+    @all_attending = Rsvp.where(is_attending: true).includes(:guest)
+    @all_not_attending = Rsvp.where(is_attending: false).includes(:guest)
+  end
 
   def new
     @rsvp = Rsvp.new

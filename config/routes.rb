@@ -5,5 +5,5 @@ Rails.application.routes.draw do
     resources :rsvps, only: [:new]
     get '/gallery', to: 'gallery_pictures#index', as: 'gallery'
   end
-  resources :rsvps, only: [:create]
+  resources :rsvps, only: [:create, :index]
 end
