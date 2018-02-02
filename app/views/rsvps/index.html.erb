@@ -1,0 +1,49 @@
+<div class="gallery-container">
+  <div class="container text-center">
+    <h2>Attending (<%= @all_attending.size %>) </h2>
+    <hr>
+    <table class="blueTable">
+      <thead>
+        <tr>
+          <th>Full Name</th>
+          <th>Needs Accomodation</th>
+          <th>additionals</th>
+          <th>consideration</th>
+        </tr>
+      </thead>
+      <% @all_attending.each do |rsvp| %>
+      <tbody>
+        <tr class="product">
+          <td><%= rsvp.guest.full_name %></td>
+          <td><%= rsvp.needs_accomodation %></td>
+          <td><%= rsvp.additionals %></td>
+          <td><%= rsvp.consideration %></td>
+        </tr>
+      </tbody>
+      <% end %>
+    </table>
+
+    <h2 class="title">Non-Attending (<%= @all_not_attending.size %>)</h2>
+    <hr>
+    <table class="blueTable">
+      <thead>
+        <tr>
+          <th>Full Name</th>
+          <th>Needs Accomodation</th>
+          <th>Additionals</th>
+          <th>Consideration</th>
+        </tr>
+      </thead>
+      <% @all_not_attending.each do |rsvp| %>
+      <tbody>
+        <tr class="product">
+          <td><%= rsvp.guest.full_name %></td>
+          <td><%= rsvp.needs_accomodation %></td>
+          <td><%= rsvp.additionals %></td>
+          <td><%= rsvp.consideration %></td>
+        </tr>
+      </tbody>
+      <% end %>
+    </table>
+  </div>
+</div>
