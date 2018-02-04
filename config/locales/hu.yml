@@ -141,8 +141,8 @@ hu:
   rsvp_mailer:
     confirmation:
       confirmation_email: Köszönjük a visszajelzést
-      see_you_soon: Hamarosan találkozunk
-      thanks_for_the_confirmation: Köszönjük a visszajelzést
+      see_you_soon: Hamarosan találkozunk !
+      thanks_for_the_confirmation: Köszönjük a visszajelzést !
   rsvps:
     new:
       are_you_coming: Ott leszel ?
