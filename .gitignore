@@ -14,6 +14,7 @@ node_modules
 db/guests.csv
 guests.rb
 guests.txt
+wedding
 
 # Ignore application configuration
 /config/application.yml
