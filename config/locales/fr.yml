@@ -86,6 +86,7 @@ fr:
         vous communiquerons d’autres possibilités ultérieurement !
       pisa_international_airport: Depuis l’aéroport de Pise vous pouvez prendre
       price: Tarif
+      shuttle_bus_hotel_incisa: Une navette sera assurée entre ces logements et le lieu du mariage.
       smn_to_incisa: De Firenze-Santa Maria Novella à Incisa
       smn_to_incisa_details: Prendre le train à destination d’Arezzo. Descendre à
         la station Incisa (42 min, 4-6€).
@@ -149,8 +150,10 @@ fr:
       are_you_coming: Seras-tu des nôtres ?
       consideration: Faites nous savoir si vous avez des intolérances alimentaires
         et allergies.
+      deadline_for_accomodation_requests: Deadline for accomodation requests
       deadline_for_accomodation_requests_html: La date limite pour nous faire parvenir
         vos demandes de logement est le <strong>10 Mars</strong> !
+      deadline_sending_rsvp: Deadline sending rsvp
       deadline_sending_rsvp_html: La date limite pour l'envoi de la confirmation est
         le <strong>10 Mai</strong> !
       let_us_know_if_you_will_make_it: Faites nous savoir si vous serez de la fête..
@@ -158,10 +161,14 @@ fr:
       no_thank_you: Non, merci. Je m'occuperai de l'hébergement par moi-même.
       send_rsvp: Envoi du RSVP
       who_else_is_coming_with_you: De qui serez vous accompagné ?
-      would_you_like_us_to_help_you_with_the_accomodation: Souhaitez vous notre aide pour l’hébergement ?
-      yes_agriturismo_loppiano: Oui, s'il vous plaît. Je voudrais séjourner dans l'Agriturismo de Loppiano.
-      yes_hotel_incisa_double_room: Oui, s'il vous plaît. Je voudrais séjourner à l'hôtel à Incisa (chambre double avec le petit déjeuner).
-      yes_hotel_incisa_single_room: Oui, s'il vous plaît. Je voudrais séjourner à l'hôtel à Incisa (chambre simple avec le petit déjeuner).
+      would_you_like_us_to_help_you_with_the_accomodation: Souhaitez vous notre aide
+        pour l’hébergement ?
+      yes_agriturismo_loppiano: Oui, s'il vous plaît. Je voudrais séjourner dans l'Agriturismo
+        de Loppiano.
+      yes_hotel_incisa_double_room: Oui, s'il vous plaît. Je voudrais séjourner à
+        l'hôtel à Incisa (chambre double avec le petit déjeuner).
+      yes_hotel_incisa_single_room: Oui, s'il vous plaît. Je voudrais séjourner à
+        l'hôtel à Incisa (chambre simple avec le petit déjeuner).
       yes_i_am_coming: Oui, je serai de la fête.
       yes_please: Oui, Merci.
       your_name: Nom
