@@ -82,6 +82,7 @@ en:
         ask you to do your booking personally. Further options will be shared soon !
       pisa_international_airport: From the Pisa International Airport you can take
       price: Price
+      shuttle_bus_hotel_incisa: Between this accommodation and the locations of the wedding a shuttle bus service will be provided.
       smn_to_incisa: From Firenze-Santa Maria Novella To Incisa
       smn_to_incisa_details: Take the train towards Arezzo. Stop at Incisa railway
         station (42 min, 4-6€).
@@ -102,7 +103,8 @@ en:
       florence_detail_5: Piazzale della Signoria
       florence_detail_6: Galleria d'Uffizi
       further_small_towns: Further Small Towns
-      holidays_infos_1: Are you planning to come to our wedding? What would you say to combine your visit with an incredible holiday in Tuscany?
+      holidays_infos_1: Are you planning to come to our wedding? What would you say
+        to combine your visit with an incredible holiday in Tuscany?
       holidays_infos_2: We have put together a collection of the most beautiful cities
         and sights of Tuscany for you !
       holidays_infos_3: But above all, do not forget to enjoy a relaxed moment with
@@ -144,8 +146,11 @@ en:
       are_you_coming: Are you coming ?
       consideration: Please, let us know, if you have any special considerations,
         food intolerance, allergies.
+      deadline_for_accomodation_requests: Deadline for accomodation requests
       deadline_for_accomodation_requests_html: The deadline for communicating your
-        requests regarding the accomodation is on the <strong>10th March</strong> !
+        requests regarding the accomodation is on the <strong>10th March</strong>
+        !
+      deadline_sending_rsvp: Deadline sending rsvp
       deadline_sending_rsvp_html: The deadline for sending the RSVP is on the <strong>10th
         May</strong> !
       let_us_know_if_you_will_make_it: Let us know if you will make it..
@@ -155,9 +160,12 @@ en:
       who_else_is_coming_with_you: Who else is coming with you ?
       would_you_like_us_to_help_you_with_the_accomodation: Would you like us to help
         you with the accomodation ?
-      yes_agriturismo_loppiano: Yes, please. I would like to stay in the Agriturismo in Loppiano.
-      yes_hotel_incisa_double_room: Yes, please. I would like to stay in the Hotel in Incisa, in a single room with breakfast.
-      yes_hotel_incisa_single_room: Yes, please. I would like to stay in the Hotel in Incisa, in a double room with breakfast.
+      yes_agriturismo_loppiano: Yes, please. I would like to stay in the Agriturismo
+        in Loppiano.
+      yes_hotel_incisa_double_room: Yes, please. I would like to stay in the Hotel
+        in Incisa, in a single room with breakfast.
+      yes_hotel_incisa_single_room: Yes, please. I would like to stay in the Hotel
+        in Incisa, in a double room with breakfast.
       yes_i_am_coming: Yes, I am coming.
       yes_please: Yes, Please.
       your_name: Your Name

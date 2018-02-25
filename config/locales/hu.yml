@@ -86,6 +86,7 @@ hu:
         hamarosan!
       pisa_international_airport: Megközelítés Pisa nemzetközi repteréről
       price: Árak
+      shuttle_bus_hotel_incisa: Ezen szálláshely és az esküvő helyszínei között kisbuszokkal lesz megoldva a közlekedés.
       smn_to_incisa: Firenze-Santa Maria Novellából Incisába
       smn_to_incisa_details: Szállj fel a vonatra Arezzo felé, majd szállj le Incisa
         vasútállomásnál (42 perc, 4-6€).
@@ -149,7 +150,8 @@ hu:
       consideration: Kérünk, hogy tudasd velünk, ha bármilyen különleges kérésed,
         étel intoleranciád vagy allergiád van.
       deadline_for_accomodation_requests: Deadline for accomodation requests
-      deadline_for_accomodation_requests_html: A visszajelzés határideje a szállással kapcsolatban <strong>március 10</strong> !
+      deadline_for_accomodation_requests_html: A visszajelzés határideje a szállással
+        kapcsolatban <strong>március 10</strong> !
       deadline_sending_rsvp: Deadline sending rsvp
       deadline_sending_rsvp_html: Ha nem kérsz szállást, kérünk, akkor is jelezz vissza
         <strong>május 10 előtt</strong> !
@@ -160,8 +162,10 @@ hu:
       who_else_is_coming_with_you: Kivel érkezel?
       would_you_like_us_to_help_you_with_the_accomodation: Szeretnéd ha segítenénk
         a szálláskeresésben ?
-      yes_agriturismo_loppiano: Igen, egyágyas szobát kérek az incisai szállodában reggelivel
-      yes_hotel_incisa_double_room: Igen, kétágyas szobát kérek az incisai szállodában reggelivel
+      yes_agriturismo_loppiano: Igen, egyágyas szobát kérek az incisai szállodában
+        reggelivel
+      yes_hotel_incisa_double_room: Igen, kétágyas szobát kérek az incisai szállodában
+        reggelivel
       yes_hotel_incisa_single_room: Igen, az Agriturismoban szeretnék megszállni Loppianoban
       yes_i_am_coming: Igen, jövök.
       yes_please: Igen.
