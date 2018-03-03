@@ -3,7 +3,8 @@ en:
   home:
     banner:
       are_you_coming: Are You Coming ?
-      deadline_sending_rsvp: The deadline for sending the RSVP is on the 10th May !
+      deadline_sending_rsvp: The deadline for sending the RSVP is on the 10th May
+        !
       location: Loppiano, Incisa Val D'Arno, Italy
     chiara_quote:
       chiara_quote: If I should have to leave this world today and you were to ask
@@ -74,12 +75,14 @@ en:
       infos_accomodation_2: We are personally in touch with the following accommodations,
         and we could make a direct booking for you at these places.
       infos_accomodation_3: Deadline for communicating your requests
-      infos_accomodation_4: Please, let us know your preferences as soon as possible !
+      infos_accomodation_4: Please, let us know your preferences as soon as possible
+        !
       infos_accomodation_5: We have gathered some information for you
       infos_accomodation_6: In and around Incisa there are other Bed and Breakfast
         possibilities too, but we are not directly in touch with these accommodations.
       infos_accomodation_7: So if you would prefer these options below, we kindly
-        ask you to do your booking personally. Further options will be shared soon !
+        ask you to do your booking personally. Further options will be shared soon
+        !
       pisa_international_airport: From the Pisa International Airport you can take
       price: Price
       shuttle_bus_hotel_incisa: Between this accommodation and the locations of the wedding a shuttle bus service will be provided.
@@ -156,6 +159,7 @@ en:
       let_us_know_if_you_will_make_it: Let us know if you will make it..
       no_i_wont_be_able: No, I won't be able to come.
       no_thank_you: No, thank you. I am arranging the accommodation for myself.
+      search_for_your_name: Search for your name in the list
       send_rsvp: Send RSVP
       who_else_is_coming_with_you: Who else is coming with you ?
       would_you_like_us_to_help_you_with_the_accomodation: Would you like us to help

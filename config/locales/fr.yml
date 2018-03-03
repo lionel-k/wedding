@@ -3,10 +3,12 @@ fr:
   home:
     banner:
       are_you_coming: Seras-tu des nôtres?
-      deadline_sending_rsvp: La date limite pour l'envoi de la confirmation est le 10 Mai !
+      deadline_sending_rsvp: La date limite pour l'envoi de la confirmation est le
+        10 Mai !
       location: Loppiano, Incisa Val D'Arno, Italie
     chiara_quote:
-      chiara_quote: Si aujourd’hui je devais quitter cette terre et qu’il m’était demandé une parole je dirais 'Soyez une famille'.
+      chiara_quote: Si aujourd’hui je devais quitter cette terre et qu’il m’était
+        demandé une parole je dirais 'Soyez une famille'.
     countdown:
       days: Jours
       hours: Heures
@@ -77,7 +79,8 @@ fr:
       infos_accomodation_2: Nous sommes déjà en contact avec les hébergements suivant
         et pouvons par conséquent vous aider à y faire votre réservation.
       infos_accomodation_3: Date limite pour nous faire parvenir vos demandes
-      infos_accomodation_4: Faites nous savoir vos préférences le plus tôt possible !
+      infos_accomodation_4: Faites nous savoir vos préférences le plus tôt possible
+        !
       infos_accomodation_5: Nous avons réuni des informations pour vous
       infos_accomodation_6: Il existe autour d’Incisa d’autres possibilités d’Hôtels
         Bed & Breakfast, mais nous ne sommes pas en contact direct avec eux.
@@ -159,6 +162,7 @@ fr:
       let_us_know_if_you_will_make_it: Faites nous savoir si vous serez de la fête..
       no_i_wont_be_able: Non, je ne serai pas de la fête.
       no_thank_you: Non, merci. Je m'occuperai de l'hébergement par moi-même.
+      search_for_your_name: Trouves ton nom dans la liste
       send_rsvp: Envoi du RSVP
       who_else_is_coming_with_you: De qui serez vous accompagné ?
       would_you_like_us_to_help_you_with_the_accomodation: Souhaitez vous notre aide
