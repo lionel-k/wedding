@@ -8,7 +8,7 @@
         <div class="row">
 
           <%= simple_form_for @rsvp do |f| %>
-          <%= f.association :guest, collection: Guest.all.order(:first_name).map {|guest| [guest.full_name, guest.id]}, prompt: "Christopher West", label: t('.your_name'), input_html: { class: 'select2 form-control' }, required: true %>
+          <%= f.association :guest, collection: Guest.all.order(:first_name).map {|guest| [guest.full_name, guest.id]}, prompt: t('.search_for_your_name') , label: t('.your_name'), input_html: { class: 'select2 form-control' }, required: true %>
 
           <%= f.input :is_attending, collection: [[t('.yes_i_am_coming'), true], [t('.no_i_wont_be_able'), false]] ,label: t('.are_you_coming'), class: "form-control", required: true %>
           <%= f.input :needs_accomodation, collection: [[t('.yes_hotel_incisa_single_room'), "yes_hotel_incisa_single_room"], [t('.yes_hotel_incisa_double_room'), "yes_hotel_incisa_double_room"], [t('.yes_agriturismo_loppiano'), "yes_agriturismo_loppiano"], [t('.no_thank_you'), "no_thank_you"]] , label: t('.would_you_like_us_to_help_you_with_the_accomodation'), required: true %>
