@@ -18,6 +18,12 @@ en:
     our_story:
       our_path: Our Path
       our_story: Our Story
+    practical_informations:
+      dress_code: Dress Code
+      google_form: Google form
+      practical_informations: Practical Informations
+      weather: Weather
+      wedding_gifts: Wedding Gifts
     stats:
       after: After
       countries: Countries Visited
@@ -85,7 +91,8 @@ en:
         !
       pisa_international_airport: From the Pisa International Airport you can take
       price: Price
-      shuttle_bus_hotel_incisa: Between this accommodation and the locations of the wedding a shuttle bus service will be provided.
+      shuttle_bus_hotel_incisa: Between this accommodation and the locations of the
+        wedding a shuttle bus service will be provided.
       smn_to_incisa: From Firenze-Santa Maria Novella To Incisa
       smn_to_incisa_details: Take the train towards Arezzo. Stop at Incisa railway
         station (42 min, 4-6€).
@@ -181,6 +188,7 @@ en:
       gallery: Gallery
       home: Home
       our_story: Our Story
+      practical_informations: Practical Informations
       rsvp: RSVP
       sign_in: Sign in
       the_big_day: The Big Day
