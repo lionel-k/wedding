@@ -1,23 +1,36 @@
 <div class="container text-center">
-  <%= link_to "", "", name: "practical-informations" %>
-  <h2 class="text-center title"><%= t('.practical_informations') %></h2>
+  <%= link_to "", "", name: "practical-information" %>
+  <h2 class="text-center title"><%= t('.practical_information') %></h2>
 
   <ul class="inbox">
     <li class="message">
       <%= image_tag "gift.png", class: "avatar-lg" %>
       <div class="message-body text-center">
         <p><strong><%= t('.wedding_gifts') %></strong></p>
-        <p>Your presence at our wedding is already an amazing gift for us, but if you do wish to make a gesture,  we would appreciate if you could contribute to our starting life financially.</p>
-        <p>As we have chosen a wedding location, which is very far from our future home, it would be difficult to transport all the gifts after the wedding.</p>
-        <p>However, we would happily accept a gift of cash or money transfer towards our dream home.</p>
-        <p>Please, find our french bank account information below:</p>
-        <p>IBAN: FR76 3000 4025 8200 0001 2541 157</p>
-        <p>BIC: BNPAFRPPXXX</p>
+        <p>
+        Your presence at our wedding is already an amazing gift for us, but if you do wish to make a gesture,  we would appreciate if you could contribute to our starting life financially.
+        </p>
+        <p>
+        As we have chosen a wedding location, which is very far from our future home, it would be difficult to transport all the gifts after the wedding.
+        </p>
+        <p>
+        However, we would happily accept a gift of cash or money transfer towards our dream home.
+        </p>
+        <p>
+        Please, find our french bank account information below:
+        </p>
+        <p>
+          IBAN: FR76 3000 4025 8200 0001 2541 157
+        </p>
+        <p>
+        BIC: BNPAFRPPXXX
+        </p>
         <p>
           Nevertheless, if you prefer to offer us a small gift, feel free to surprise us in your own way.
         </p>
         <p>
           Note for the French resident guests: We would be happy to receive your gifts directly in our new home in Paris.
+          <%= t('.french_note') %>
         </p>
       </div>
     </li>
@@ -43,7 +56,7 @@
     <li class="message">
       <%= image_tag "arrival_departure.svg", class: "avatar-lg" %>
       <div class="message-body text-center">
-        <p><strong><%= t('.arrival_&_departure_&_help') %></strong></p>
+        <p><strong><%= t('.arrivals_&_departures_&_help') %></strong></p>
         <p>
           We are very thankful for the effort you are making to come and celebrate this day with us. We are aware that some of you are coming from very far,  with different arrival times.
         </p>
