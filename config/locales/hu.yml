@@ -17,6 +17,24 @@ hu:
     our_story:
       our_path: Közös utunk
       our_story: Történetünk
+    practical_information:
+      access_to_the_google_form: Access to the google form
+      dress_code: Dress code
+      french_note: ''
+      practical_information: Gyakorlati Információk
+      weather: Weather
+      wedding_gifts: Esküvői ajándék
+      wedding_gifts_1: Jelentlétetek az esküvőnkön már önmagában hatalmas ajándék, de ha szeretnétek megajándékozni minket, nagy öröm lenne számunkra, ha pénzügyileg tudnátok hozzájárulni kezdődő életünkhöz!
+      wedding_gifts_2: Mivel esküvőnk helyszíne meglehetősen távol van új otthonunktól, nehéz lenne megoldani a sok ajándék szállítását.
+      wedding_gifts_3: Ezért hálásak lennénk, ha készpénzzel, vagy banki utalással támogatnátok álom otthonunk kistafírungozását.
+      wedding_gifts_4: Itt találjátok francia bankszámlánk adatait 👇
+      wedding_gifts_5: Ha mindennek ellenére szeretnétek meglepni minket egy kis ajándékkal, emlékkel, nagy szeretettel fogadjuk azt is!
+    practical_informations:
+      dress_code: Dress Code
+      google_form: Google form
+      practical_informations: Gyakorlati Információk
+      weather: Weather
+      wedding_gifts: Wedding Gifts
     stats:
       after: Hátunk mögött...
       countries: Meglátogatott országgal
@@ -86,7 +104,8 @@ hu:
         hamarosan!
       pisa_international_airport: Megközelítés Pisa nemzetközi repteréről
       price: Árak
-      shuttle_bus_hotel_incisa: Ezen szálláshely és az esküvő helyszínei között kisbuszokkal lesz megoldva a közlekedés.
+      shuttle_bus_hotel_incisa: Ezen szálláshely és az esküvő helyszínei között kisbuszokkal
+        lesz megoldva a közlekedés.
       smn_to_incisa: Firenze-Santa Maria Novellából Incisába
       smn_to_incisa_details: Szállj fel a vonatra Arezzo felé, majd szállj le Incisa
         vasútállomásnál (42 perc, 4-6€).
@@ -179,6 +198,8 @@ hu:
       gallery: Galéria
       home: Főoldal
       our_story: Történetünk
+      practical_information: Gyakorlati Információk
+      practical_informations: Gyakorlati Információk
       rsvp: Visszajelzés
       sign_in: Bejelentkezés
       the_big_day: A Nagy Nap

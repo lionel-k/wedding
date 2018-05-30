@@ -18,10 +18,22 @@ en:
     our_story:
       our_path: Our Path
       our_story: Our Story
+    practical_information:
+      access_to_the_google_form: Access to the google form
+      dress_code: Dress code
+      french_note: Note for the French resident guests 👉 We would be happy to receive your gifts directly in our new home in Paris.
+      practical_information: Practical Information
+      weather: Weather
+      wedding_gifts: Wedding Gifts
+      wedding_gifts_1: Your presence at our wedding is already an amazing gift for us, but if you do wish to make a gesture,  we would appreciate if you could contribute to our starting life financially.
+      wedding_gifts_2: As we have chosen a wedding location, which is very far from our future home, it would be difficult to transport all the gifts after the wedding.
+      wedding_gifts_3: However, we would happily accept a gift of cash or money transfer towards our dream home.
+      wedding_gifts_4: Please, find our french bank account information below 👇
+      wedding_gifts_5: Nevertheless, if you prefer to offer us a small gift, feel free to surprise us in your own way.
     practical_informations:
       dress_code: Dress Code
       google_form: Google form
-      practical_informations: Practical Informations
+      practical_informations: Practical Information
       weather: Weather
       wedding_gifts: Wedding Gifts
     stats:
@@ -188,7 +200,8 @@ en:
       gallery: Gallery
       home: Home
       our_story: Our Story
-      practical_informations: Practical Informations
+      practical_information: Practical Information
+      practical_informations: Practical Information
       rsvp: RSVP
       sign_in: Sign in
       the_big_day: The Big Day

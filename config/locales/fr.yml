@@ -18,6 +18,24 @@ fr:
     our_story:
       our_path: Notre Cheminement
       our_story: Notre Histoire
+    practical_information:
+      access_to_the_google_form: Accès au formulaire
+      dress_code: Tenue
+      french_note: Note pour les invités résidents en France 👉 Nous serons heureux de recevoir vos cadeaux directement dans notre nouvelle maison à Paris.
+      practical_information: Informations Pratiques
+      weather: Météo
+      wedding_gifts: Cadeaux de Mariage
+      wedding_gifts_1: Votre présence à notre mariage est déjà un très beau cadeau pour nous, mais si vous souhaitez faire un geste nous apprécierons que vous puissiez contribuer financièrement au début de notre vie à deux.
+      wedding_gifts_2: Comme nous avons choisi un lieu de mariage, qui est très loin de notre future maison, il serait difficile de transporter tous les cadeaux après le mariage.
+      wedding_gifts_3: Cependant, nous accepterions volontiers un soutien financier sous forme de liquide ou de virement bancaire.
+      wedding_gifts_4: Veuillez trouver ci-dessous les informations de notre compte bancaire français 👇
+      wedding_gifts_5: Néanmoins, si vous préférez nous offrir un petit cadeau, n'hésitez pas à nous surprendre à votre façon.
+    practical_informations:
+      dress_code: Dress Code
+      google_form: Google form
+      practical_informations: Practical Informations
+      weather: Weather
+      wedding_gifts: Wedding Gifts
     stats:
       after: Après
       countries: Pays visités
@@ -89,7 +107,8 @@ fr:
         vous communiquerons d’autres possibilités ultérieurement !
       pisa_international_airport: Depuis l’aéroport de Pise vous pouvez prendre
       price: Tarif
-      shuttle_bus_hotel_incisa: Une navette sera assurée entre ces logements et le lieu du mariage.
+      shuttle_bus_hotel_incisa: Une navette sera assurée entre ces logements et le
+        lieu du mariage.
       smn_to_incisa: De Firenze-Santa Maria Novella à Incisa
       smn_to_incisa_details: Prendre le train à destination d’Arezzo. Descendre à
         la station Incisa (42 min, 4-6€).
@@ -184,6 +203,8 @@ fr:
       gallery: Galerie
       home: Accueil
       our_story: Notre Histoire
+      practical_information: Informations Pratiques
+      practical_informations: Informations Pratiques
       rsvp: RSVP
       sign_in: Accéder
       the_big_day: Le Grand Jour
