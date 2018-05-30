@@ -22,13 +22,20 @@ hu:
       dress_code: Dress code
       french_note: ''
       practical_information: Gyakorlati Információk
-      weather: Weather
+      weather: Időjárás
+      weather_1: Toszkána június végén meglehetősen forró tud lenni, felhő alig várható, a hőmérsélet pedig könnyen 30°C fölé emelkedhet, napnyugta után pedig akár 15°C köré is süllyedhet.
+      weather_2: Fontos! Mindig legyen nálad egy üveg víz!
       wedding_gifts: Esküvői ajándék
-      wedding_gifts_1: Jelentlétetek az esküvőnkön már önmagában hatalmas ajándék, de ha szeretnétek megajándékozni minket, nagy öröm lenne számunkra, ha pénzügyileg tudnátok hozzájárulni kezdődő életünkhöz!
-      wedding_gifts_2: Mivel esküvőnk helyszíne meglehetősen távol van új otthonunktól, nehéz lenne megoldani a sok ajándék szállítását.
-      wedding_gifts_3: Ezért hálásak lennénk, ha készpénzzel, vagy banki utalással támogatnátok álom otthonunk kistafírungozását.
-      wedding_gifts_4: Itt találjátok francia bankszámlánk adatait 👇
-      wedding_gifts_5: Ha mindennek ellenére szeretnétek meglepni minket egy kis ajándékkal, emlékkel, nagy szeretettel fogadjuk azt is!
+      wedding_gifts_1: Jelentlétetek az esküvőnkön már önmagában hatalmas ajándék,
+        de ha szeretnétek megajándékozni minket, nagy öröm lenne számunkra, ha pénzügyileg
+        tudnátok hozzájárulni kezdődő életünkhöz!
+      wedding_gifts_2: Mivel esküvőnk helyszíne meglehetősen távol van új otthonunktól,
+        nehéz lenne megoldani a sok ajándék szállítását.
+      wedding_gifts_3: Ezért hálásak lennénk, ha készpénzzel, vagy banki utalással
+        támogatnátok álom otthonunk kistafírungozását.
+      wedding_gifts_4: "Itt találjátok francia bankszámlánk adatait \U0001F447"
+      wedding_gifts_5: Ha mindennek ellenére szeretnétek meglepni minket egy kis ajándékkal,
+        emlékkel, nagy szeretettel fogadjuk azt is!
     practical_informations:
       dress_code: Dress Code
       google_form: Google form
