@@ -18,9 +18,20 @@ hu:
       our_path: Közös utunk
       our_story: Történetünk
     practical_information:
-      access_to_the_google_form: Access to the google form
+      access_to_the_google_form: Itt találjátok a kérdőívet
+      arrivals_departures_help: Érkezés & Indulás & Segítés
+      arrivals_departures_help_1: Nagyon hálásak vagyunk minden áldozatért, amit bevállaltok azért, hogy velünk ünnepelhessétek ezt a napot. Tudjuk, hogy sokan messziről jöttök, és különböző időpontokban érkeztek.
+      arrivals_departures_help_2_html: Éppen ezért létrehoztunk egy <a href="http://bit.ly/arrivals-departures-help-loppiano"
+        target="_blank">Google kérdőívet</a>, hogy megadhassátok nekünk érkezésetek és indulásotok pontos időpontját.
+      arrivals_departures_help_3: Ha szükségetek van fuvarra az esküvő helyszínére való megérkezéshez, kérjük, hogy a lehető leghamarabb tudassátok velünk!
+      arrivals_departures_help_4_html: Szeretnél segíteni nekünk a Nagy Nap helyszíni előkészületeiben? Írd meg nekünk az alábbi <a href="http://bit.ly/arrivals-departures-help-loppiano"
+        target="_blank">kérdőívben</a>!
+      arrivals_departures_help_5: Jó utat kívánunk mindenkinek!
       dress_code: Dresszkód
-      dress_code_1: Javasoljuk, hogy légy felkészülve mind a hőségre, mind pedig egy esetleges hűvös estére, és a ruhád stílusát és színét ennek megfelelően válaszd ki. Az esküvő alap színei a barackvirág, a bézs és az olivazöld. Fiúk, az öltöny nem kötelező!
+      dress_code_1: Javasoljuk, hogy légy felkészülve mind a hőségre, mind pedig egy
+        esetleges hűvös estére, és a ruhád stílusát és színét ennek megfelelően válaszd
+        ki. Az esküvő alap színei a barackvirág, a bézs és az olivazöld. Fiúk, az
+        öltöny nem kötelező!
       french_note: ''
       practical_information: Gyakorlati Információk
       weather: Időjárás

@@ -19,9 +19,20 @@ fr:
       our_path: Notre Cheminement
       our_story: Notre Histoire
     practical_information:
-      access_to_the_google_form: Accès au formulaire
+      access_to_the_google_form: Accès au Formulaire
+      arrivals_departures_help: Arrivées & Départs & Aide
+      arrivals_departures_help_1: Nous sommes très reconnaissants pour les efforts que vous faites pour venir célébrer cette journée avec nous. Nous sommes conscients que certains d'entre vous viennent de très loin, avec des horaires d'arrivée différents.
+      arrivals_departures_help_2_html: C'est pour cette raison nous avons créé ce <a href="http://bit.ly/arrivals-departures-help-loppiano"
+        target="_blank">formulaire</a>, afin que vous puissiez nous communiquer l'heure exacte de votre arrivée et de votre départ.
+      arrivals_departures_help_3: Si vous avez besoin d'aide pour arriver au lieu du mariage, s'il vous plaît faites-le nous savoir dès que possible!
+      arrivals_departures_help_4_html: Aimeriez-vous nous aider à préparer le grand jour sur place? Dites-le nous également dans le même <a href="http://bit.ly/arrivals-departures-help-loppiano"
+        target="_blank">formulaire</a>!
+      arrivals_departures_help_5: Nous vous souhaitons un très bon voyage.
       dress_code: Tenue
-      dress_code_1: Nous vous proposons de vous préparer à la fois pour la chaleur et pour une éventuelle soirée tempérée, et de choisir la couleur et le style de votre tenue en conséquence. Les couleurs principales du mariage sont la couleur pêche, le beige et le vert olive. Les gars, le costume n'est pas obligatoire!
+      dress_code_1: Nous vous proposons de vous préparer à la fois pour la chaleur
+        et pour une éventuelle soirée tempérée, et de choisir la couleur et le style
+        de votre tenue en conséquence. Les couleurs principales du mariage sont la
+        couleur pêche, le beige et le vert olive. Les gars, le costume n'est pas obligatoire!
       french_note: "Note pour les invités résidents en France \U0001F449 Nous serons
         heureux de recevoir vos cadeaux directement dans notre nouvelle maison à Paris."
       practical_information: Informations Pratiques
