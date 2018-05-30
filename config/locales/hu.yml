@@ -20,11 +20,16 @@ hu:
     practical_information:
       access_to_the_google_form: Itt találjátok a kérdőívet
       arrivals_departures_help: Érkezés & Indulás & Segítés
-      arrivals_departures_help_1: Nagyon hálásak vagyunk minden áldozatért, amit bevállaltok azért, hogy velünk ünnepelhessétek ezt a napot. Tudjuk, hogy sokan messziről jöttök, és különböző időpontokban érkeztek.
+      arrivals_departures_help_1: Nagyon hálásak vagyunk minden áldozatért, amit bevállaltok
+        azért, hogy velünk ünnepelhessétek ezt a napot. Tudjuk, hogy sokan messziről
+        jöttök, és különböző időpontokban érkeztek.
       arrivals_departures_help_2_html: Éppen ezért létrehoztunk egy <a href="http://bit.ly/arrivals-departures-help-loppiano"
-        target="_blank">Google kérdőívet</a>, hogy megadhassátok nekünk érkezésetek és indulásotok pontos időpontját.
-      arrivals_departures_help_3: Ha szükségetek van fuvarra az esküvő helyszínére való megérkezéshez, kérjük, hogy a lehető leghamarabb tudassátok velünk!
-      arrivals_departures_help_4_html: Szeretnél segíteni nekünk a Nagy Nap helyszíni előkészületeiben? Írd meg nekünk az alábbi <a href="http://bit.ly/arrivals-departures-help-loppiano"
+        target="_blank">Google kérdőívet</a>, hogy megadhassátok nekünk érkezésetek
+        és indulásotok pontos időpontját.
+      arrivals_departures_help_3: Ha szükségetek van fuvarra az esküvő helyszínére
+        való megérkezéshez, kérjük, hogy a lehető leghamarabb tudassátok velünk!
+      arrivals_departures_help_4_html: Szeretnél segíteni nekünk a Nagy Nap helyszíni
+        előkészületeiben? Írd meg nekünk az alábbi <a href="http://bit.ly/arrivals-departures-help-loppiano"
         target="_blank">kérdőívben</a>!
       arrivals_departures_help_5: Jó utat kívánunk mindenkinek!
       dress_code: Dresszkód
@@ -34,6 +39,8 @@ hu:
         öltöny nem kötelező!
       french_note: ''
       practical_information: Gyakorlati Információk
+      presentations_during_the_party: Előadások a párt alatt
+      presentations_during_the_party_1: Ha arra gondolna, hogy bemutat valamit a párt alatt, kérjük, tudassa velünk ezt a másik formát.
       weather: Időjárás
       weather_1: Toszkána június végén meglehetősen forró tud lenni, felhő alig várható,
         a hőmérsélet pedig könnyen 30°C fölé emelkedhet, napnyugta után pedig akár

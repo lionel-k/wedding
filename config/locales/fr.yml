@@ -21,11 +21,18 @@ fr:
     practical_information:
       access_to_the_google_form: Accès au Formulaire
       arrivals_departures_help: Arrivées & Départs & Aide
-      arrivals_departures_help_1: Nous sommes très reconnaissants pour les efforts que vous faites pour venir célébrer cette journée avec nous. Nous sommes conscients que certains d'entre vous viennent de très loin, avec des horaires d'arrivée différents.
-      arrivals_departures_help_2_html: C'est pour cette raison nous avons créé ce <a href="http://bit.ly/arrivals-departures-help-loppiano"
-        target="_blank">formulaire</a>, afin que vous puissiez nous communiquer l'heure exacte de votre arrivée et de votre départ.
-      arrivals_departures_help_3: Si vous avez besoin d'aide pour arriver au lieu du mariage, s'il vous plaît faites-le nous savoir dès que possible!
-      arrivals_departures_help_4_html: Aimeriez-vous nous aider à préparer le grand jour sur place? Dites-le nous également dans le même <a href="http://bit.ly/arrivals-departures-help-loppiano"
+      arrivals_departures_help_1: Nous sommes très reconnaissants pour les efforts
+        que vous faites pour venir célébrer cette journée avec nous. Nous sommes conscients
+        que certains d'entre vous viennent de très loin, avec des horaires d'arrivée
+        différents.
+      arrivals_departures_help_2_html: C'est pour cette raison nous avons créé ce
+        <a href="http://bit.ly/arrivals-departures-help-loppiano" target="_blank">formulaire</a>,
+        afin que vous puissiez nous communiquer l'heure exacte de votre arrivée et
+        de votre départ.
+      arrivals_departures_help_3: Si vous avez besoin d'aide pour arriver au lieu
+        du mariage, s'il vous plaît faites-le nous savoir dès que possible!
+      arrivals_departures_help_4_html: Aimeriez-vous nous aider à préparer le grand
+        jour sur place? Dites-le nous également dans le même <a href="http://bit.ly/arrivals-departures-help-loppiano"
         target="_blank">formulaire</a>!
       arrivals_departures_help_5: Nous vous souhaitons un très bon voyage.
       dress_code: Tenue
@@ -36,6 +43,8 @@ fr:
       french_note: "Note pour les invités résidents en France \U0001F449 Nous serons
         heureux de recevoir vos cadeaux directement dans notre nouvelle maison à Paris."
       practical_information: Informations Pratiques
+      presentations_during_the_party: Presentations pendant la fête
+      presentations_during_the_party_1: Si tu pensais proposer une animation pendant la fête, n'hésites pas à nous le faire savoir également dans cet autre formulaire.
       weather: Météo
       weather_1: La température en Toscane à la fin du mois de juin peut être très
         élevée. Il y a très peu de nuages et la température dépasse souvent les 30°C,
