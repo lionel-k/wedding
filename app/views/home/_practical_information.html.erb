@@ -1,0 +1,67 @@
+<div class="container text-center">
+  <%= link_to "", "", name: "practical-information" %>
+  <h2 class="text-center title"><%= t('.practical_information') %></h2>
+
+  <ul class="inbox">
+    <li class="message">
+      <%= image_tag "gift.png", class: "avatar-lg" %>
+      <div class="message-body text-center">
+        <p><strong><%= t('.wedding_gifts') %></strong></p>
+        <p><%= t('.wedding_gifts_1') %></p>
+        <p><%= t('.wedding_gifts_2') %></p>
+        <p><%= t('.wedding_gifts_3') %></p>
+        <p><%= t('.wedding_gifts_4') %></p>
+        <p>
+          IBAN: FR76 3000 4025 8200 0001 2541 157
+        </p>
+        <p>
+        BIC: BNPAFRPPXXX
+        </p>
+        <p><%= t('.wedding_gifts_5') %></p>
+        <p>
+          <%= t('.french_note') %>
+        </p>
+      </div>
+    </li>
+    <li class="message">
+      <%= image_tag "weather.png", class: "avatar-lg" %>
+      <div class="message-body text-center">
+        <p><strong><%= t('.weather') %></strong></p>
+        <p><%= t('.weather_1') %></p>
+        <p><%= t('.weather_2') %></p>
+      </div>
+    </li>
+    <li class="message">
+      <%= image_tag "hanger.png", class: "avatar-lg" %>
+      <div class="message-body text-center">
+        <p><strong><%= t('.dress_code') %></strong></p>
+        <p><%= t('.dress_code_1') %></p>
+      </div>
+    </li>
+    <li class="message">
+      <%= image_tag "arrival_departure.svg", class: "avatar-lg" %>
+      <div class="message-body text-center">
+        <p><strong><%= t('.arrivals_departures_help') %></strong></p>
+        <p><%= t('.arrivals_departures_help_1') %></p>
+        <p><%= t('.arrivals_departures_help_2_html') %></p>
+        <p><%= t('.arrivals_departures_help_3') %></p>
+        <br>
+        <p><%= t('.arrivals_departures_help_4_html') %></p>
+        <br>
+        <p><%= link_to t('.access_to_the_google_form'), "http://bit.ly/arrivals-departures-help-loppiano", target: "_blank", class: "btn btn-treehouse btn-small" %></p>
+        <p><%= t('.arrivals_departures_help_5') %></p>
+        <p>👋😊😘🤩😊😘🤩😊😘🤩👋</p>
+        <!-- https://unicode.org/emoji/charts/full-emoji-list.html -->
+      </div>
+    </li>
+    <li class="message">
+      <%= image_tag "party.png", class: "avatar-lg" %>
+      <div class="message-body text-center">
+        <p><strong><%= t('.presentations_during_the_party') %></strong></p>
+        <p><%= t('.presentations_during_the_party_1') %></p>
+        <br>
+        <p><%= link_to t('.access_to_the_google_form'), "http://bit.ly/party-loppiano", target: "_blank", class: "btn btn-treehouse btn-small" %></p>
+      </div>
+    </li>
+  </ul>
+</div>

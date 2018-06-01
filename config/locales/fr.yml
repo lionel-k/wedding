@@ -18,6 +18,57 @@ fr:
     our_story:
       our_path: Notre Cheminement
       our_story: Notre Histoire
+    practical_information:
+      access_to_the_google_form: Accès au Formulaire
+      arrivals_departures_help: Arrivées & Départs & Aide
+      arrivals_departures_help_1: Nous sommes très reconnaissants pour les efforts
+        que vous faites pour venir célébrer cette journée avec nous. Nous sommes conscients
+        que certains d'entre vous viennent de très loin, avec des horaires d'arrivée
+        différents.
+      arrivals_departures_help_2_html: C'est pour cette raison nous avons créé ce
+        <a href="http://bit.ly/arrivals-departures-help-loppiano" target="_blank">formulaire</a>,
+        afin que vous puissiez nous communiquer l'heure exacte de votre arrivée et
+        de votre départ.
+      arrivals_departures_help_3: Si vous avez besoin d'aide pour arriver au lieu
+        du mariage, s'il vous plaît faites-le nous savoir dès que possible!
+      arrivals_departures_help_4_html: Aimeriez-vous nous aider à préparer le grand
+        jour sur place? Dites-le nous également dans le même <a href="http://bit.ly/arrivals-departures-help-loppiano"
+        target="_blank">formulaire</a>!
+      arrivals_departures_help_5: Nous vous souhaitons un très bon voyage.
+      dress_code: Tenue
+      dress_code_1: Nous vous proposons de vous préparer à la fois pour la chaleur
+        et pour une éventuelle soirée tempérée, et de choisir la couleur et le style
+        de votre tenue en conséquence. Les couleurs principales du mariage sont la
+        couleur pêche, le beige et le vert olive. Les gars, le costume n'est pas obligatoire!
+      french_note: "\U0001F449 Note pour les invités résidents en France, nous serons heureux de recevoir vos cadeaux directement dans notre nouvelle maison à Paris."
+      practical_information: Informations Pratiques
+      presentations_during_the_party: Animations pendant la fête
+      presentations_during_the_party_1: Si tu pensais proposer une animation pendant la fête, n'hésites pas à nous le faire savoir également dans cet autre formulaire.
+      weather: Météo
+      weather_1: La température en Toscane à la fin du mois de juin peut être très
+        élevée. Il y a très peu de nuages et la température dépasse souvent les 30°C,
+        alors qu'à la tombée de la nuit elle peut descendre en dessous de 15°C.
+      weather_2: Important! N'oubliez pas d'avoir une bouteille d'eau avec vous tout
+        le temps!
+      wedding_gifts: Cadeaux de Mariage
+      wedding_gifts_1: Votre présence à notre mariage est déjà un très beau cadeau
+        pour nous, mais si vous souhaitez faire un geste nous apprécierons que vous
+        puissiez contribuer financièrement au début de notre vie à deux.
+      wedding_gifts_2: Comme nous avons choisi un lieu de mariage, qui est très loin
+        de notre future maison, il serait difficile de transporter tous les cadeaux
+        après le mariage.
+      wedding_gifts_3: Cependant, nous accepterions volontiers un soutien financier
+        sous forme de liquide ou de virement bancaire.
+      wedding_gifts_4: Veuillez trouver ci-dessous les informations de notre compte
+        bancaire français
+      wedding_gifts_5: Néanmoins, si vous préférez nous offrir un petit cadeau, n'hésitez
+        pas à nous surprendre à votre façon.
+    practical_informations:
+      dress_code: Dress Code
+      google_form: Google form
+      practical_informations: Practical Informations
+      weather: Weather
+      wedding_gifts: Wedding Gifts
     stats:
       after: Après
       countries: Pays visités
@@ -89,7 +140,8 @@ fr:
         vous communiquerons d’autres possibilités ultérieurement !
       pisa_international_airport: Depuis l’aéroport de Pise vous pouvez prendre
       price: Tarif
-      shuttle_bus_hotel_incisa: Une navette sera assurée entre ces logements et le lieu du mariage.
+      shuttle_bus_hotel_incisa: Une navette sera assurée entre ces logements et le
+        lieu du mariage.
       smn_to_incisa: De Firenze-Santa Maria Novella à Incisa
       smn_to_incisa_details: Prendre le train à destination d’Arezzo. Descendre à
         la station Incisa (42 min, 4-6€).
@@ -184,6 +236,8 @@ fr:
       gallery: Galerie
       home: Accueil
       our_story: Notre Histoire
+      practical_information: Informations Pratiques
+      practical_informations: Informations Pratiques
       rsvp: RSVP
       sign_in: Accéder
       the_big_day: Le Grand Jour

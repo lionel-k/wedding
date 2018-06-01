@@ -18,6 +18,56 @@ en:
     our_story:
       our_path: Our Path
       our_story: Our Story
+    practical_information:
+      access_to_the_google_form: Access to the Google Form
+      access_to_the_google_form_party: Access to the Google Form
+      arrivals_departures_help: Arrivals & Departures & Help
+      arrivals_departures_help_1: We are very thankful for the effort you are making
+        to come and celebrate this day with us. We are aware that some of you are
+        coming from very far,  with different arrival times.
+      arrivals_departures_help_2_html: This is why we have created a <a href="http://bit.ly/arrivals-departures-help-loppiano"
+        target="_blank">Google Form</a>, so that you can let us know the exact time
+        of your arrival and your departure.
+      arrivals_departures_help_3: If you need help with arriving to the location of
+        the wedding, please let us know as soon as possible!
+      arrivals_departures_help_4_html: Would you like to help us with the preparation
+        of the Big Day on site? Tell us in the same <a href="http://bit.ly/arrivals-departures-help-loppiano"
+        target="_blank">Google Form</a>!
+      arrivals_departures_help_5: We wish a safe trip to all of you.
+      dress_code: Dress code
+      dress_code_1: We are suggesting you to be prepared both for the heat and for
+        a possible cool evening, and  choose the color and the style of your outfit
+        accordingly. The main colors of the wedding are peach, beige and olive green.
+        Guys, suit is not obligatory!
+      french_note: "\U0001F449 Note for the French resident guests, we would be happy
+        to receive your gifts directly in our new home in Paris."
+      practical_information: Practical Information
+      presentations_during_the_party: Presentations during the party
+      presentations_during_the_party_1: If you wish to surprise us with a personal/group performance, please let us know in the form below.
+      weather: Weather
+      weather_1: Tuscany at the end of June can get really hot, the cloud coverage
+        decreases, and the temperature often rises above 30°C, while after dark it
+        can drop below 15°C.
+      weather_2: Important! Do not forget to have a bottle of water with you at all
+        time!
+      wedding_gifts: Wedding Gifts
+      wedding_gifts_1: Your presence at our wedding is already an amazing gift for
+        us, but if you do wish to make a gesture,  we would appreciate if you could
+        contribute to our starting life financially.
+      wedding_gifts_2: As we have chosen a wedding location, which is very far from
+        our future home, it would be difficult to transport all the gifts after the
+        wedding.
+      wedding_gifts_3: However, we would happily accept a gift of cash or money transfer
+        towards our dream home.
+      wedding_gifts_4: Please, find our french bank account information below
+      wedding_gifts_5: Nevertheless, if you prefer to offer us a small gift, feel
+        free to surprise us in your own way.
+    practical_informations:
+      dress_code: Dress Code
+      google_form: Google form
+      practical_informations: Practical Information
+      weather: Weather
+      wedding_gifts: Wedding Gifts
     stats:
       after: After
       countries: Countries Visited
@@ -85,7 +135,8 @@ en:
         !
       pisa_international_airport: From the Pisa International Airport you can take
       price: Price
-      shuttle_bus_hotel_incisa: Between this accommodation and the locations of the wedding a shuttle bus service will be provided.
+      shuttle_bus_hotel_incisa: Between this accommodation and the locations of the
+        wedding a shuttle bus service will be provided.
       smn_to_incisa: From Firenze-Santa Maria Novella To Incisa
       smn_to_incisa_details: Take the train towards Arezzo. Stop at Incisa railway
         station (42 min, 4-6€).
@@ -181,6 +232,8 @@ en:
       gallery: Gallery
       home: Home
       our_story: Our Story
+      practical_information: Practical Information
+      practical_informations: Practical Information
       rsvp: RSVP
       sign_in: Sign in
       the_big_day: The Big Day
