@@ -34,6 +34,7 @@ en:
         of the Big Day on site? Tell us in the same <a href="http://bit.ly/arrivals-departures-help-loppiano"
         target="_blank">Google Form</a>!
       arrivals_departures_help_5: We wish a safe trip to all of you.
+      church: Church
       dress_code: Dress code
       dress_code_1: We are suggesting you to be prepared both for the heat and for
         a possible cool evening, and  choose the color and the style of your outfit
@@ -41,9 +42,14 @@ en:
         Guys, suit is not obligatory!
       french_note: "\U0001F449 Note for the French resident guests, we would be happy
         to receive your gifts directly in our new home in Paris."
+      hotel: Hotel
+      place_of_the_party: Place of the party
       practical_information: Practical Information
       presentations_during_the_party: Presentations during the party
-      presentations_during_the_party_1: If you wish to surprise us with a personal/group performance, please let us know in the form below.
+      presentations_during_the_party_1: If you wish to surprise us with a personal/group
+        performance, please let us know in the form below.
+      useful_addresses: Useful addresses
+      useful_addresses_1: Below, you will find useful addresses to know.
       weather: Weather
       weather_1: Tuscany at the end of June can get really hot, the cloud coverage
         decreases, and the temperature often rises above 30°C, while after dark it
@@ -82,7 +88,8 @@ en:
       the_big_day: The Big Day
     travel_and_accomodation:
       accomodation: Accomodation
-      address_loppiano: Address - Via di S. Vito, SNC, 50064 Figline e Incisa Valdarno FI, Italy
+      address_loppiano: Address - Via di S. Vito, SNC, 50064 Figline e Incisa Valdarno
+        FI, Italy
       agriturismo_loppiano: Agriturismo in Loppiano (22€/person/night)
       agriturismo_loppiano_infos_1: We recommend this option only for guests arriving
         by car, or renting a car upon arrival,

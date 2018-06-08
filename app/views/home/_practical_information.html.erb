@@ -68,19 +68,19 @@
       <%= image_tag "address.png", class: "avatar-lg" %>
       <div class="message-body text-center">
         <p><strong><%= t('.useful_addresses') %></strong></p>
-        <p>Below, you will find useful addresses that will help you access the venues</p>
+        <p><%= t('.useful_addresses_1') %></p>
         <br>
-        <p><strong>Church</strong></p>
+        <p><strong><%= t('.church') %></strong></p>
         <p>
           Santuario Maria Theotokos Via di S. Vito, SNC, 50064 Figline e Incisa Valdarno FI, Italy
         </p>
         <br>
-        <p><strong>Hotel</strong></p>
+        <p><strong><%= t('.hotel') %></strong></p>
         <p>
           Hotel I Ciliegi, Piazza Giorgio Amendola, 4, 50066 Ciliegi FI, Italy
         </p>
         <br>
-        <p><strong>Campogiallo (place of the party)</strong></p>
+        <p><strong>Campogiallo (<%= t('.place_of_the_party') %>)</strong></p>
         <p>
           <%= link_to 'http://bit.ly/campogiallo-loppiano-address', 'https://www.google.com/maps/@43.6689084,11.4401953,393m/data=!3m1!1e3', target: "_blank" %>
         </p>
