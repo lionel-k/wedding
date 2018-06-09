@@ -20,6 +20,7 @@ fr:
       our_story: Notre Histoire
     practical_information:
       access_to_the_google_form: Accès au Formulaire
+      access_to_the_google_form_party: Access to the Google Form
       arrivals_departures_help: Arrivées & Départs & Aide
       arrivals_departures_help_1: Nous sommes très reconnaissants pour les efforts
         que vous faites pour venir célébrer cette journée avec nous. Nous sommes conscients
@@ -35,15 +36,22 @@ fr:
         jour sur place? Dites-le nous également dans le même <a href="http://bit.ly/arrivals-departures-help-loppiano"
         target="_blank">formulaire</a>!
       arrivals_departures_help_5: Nous vous souhaitons un très bon voyage.
+      church: Église
       dress_code: Tenue
       dress_code_1: Nous vous proposons de vous préparer à la fois pour la chaleur
         et pour une éventuelle soirée tempérée, et de choisir la couleur et le style
         de votre tenue en conséquence. Les couleurs principales du mariage sont la
         couleur pêche, le beige et le vert olive. Les gars, le costume n'est pas obligatoire!
-      french_note: "\U0001F449 Note pour les invités résidents en France, nous serons heureux de recevoir vos cadeaux directement dans notre nouvelle maison à Paris."
+      french_note: "\U0001F449 Note pour les invités résidents en France, nous serons
+        heureux de recevoir vos cadeaux directement dans notre nouvelle maison à Paris."
+      hotel: Hôtel
+      place_of_the_party: Lieu de la fête
       practical_information: Informations Pratiques
       presentations_during_the_party: Animations pendant la fête
-      presentations_during_the_party_1: Si tu pensais proposer une animation pendant la fête, n'hésites pas à nous le faire savoir également dans cet autre formulaire.
+      presentations_during_the_party_1: Si tu pensais proposer une animation pendant
+        la fête, n'hésites pas à nous le faire savoir également dans cet autre formulaire.
+      useful_addresses: Adresses utiles
+      useful_addresses_1: Ci-dessous, vous trouverez les adresses utiles à connaître.
       weather: Météo
       weather_1: La température en Toscane à la fin du mois de juin peut être très
         élevée. Il y a très peu de nuages et la température dépasse souvent les 30°C,
@@ -83,7 +91,8 @@ fr:
       the_big_day: Le Grand Jour
     travel_and_accomodation:
       accomodation: Hébergement
-      address_loppiano: Adresse - Via San Vito 28, Figline e Incisa Valdarno FI, Italie
+      address_loppiano: Adresse - Via di S. Vito, SNC, 50064 Figline e Incisa Valdarno
+        FI, Italie
       agriturismo_loppiano: Agriturismo à Loppiano (22€/personne/nuit)
       agriturismo_loppiano_infos_1: Nous recommandons cette option uniquement aux
         personnes qui arriveront en voiture,
