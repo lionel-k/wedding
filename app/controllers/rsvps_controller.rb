@@ -1,5 +1,7 @@
+# frozen_string_literal: true
+
 class RsvpsController < ApplicationController
-  skip_before_action :authenticate_user!, only: [:new, :create]
+  skip_before_action :authenticate_user!, only: %i[new create]
 
   def index
     @all_attending = Rsvp.where(is_attending: true).includes(:guest)
@@ -8,15 +10,15 @@ class RsvpsController < ApplicationController
 
   def new
     @rsvp = Rsvp.new
-    @title = "RSVP - Annamária and Lionel"
+    @title = 'RSVP - Annamária and Lionel'
   end
 
   def create
-    existing_rsvp = Rsvp.find_by_guest_id(params[:rsvp][:guest_id])
+    existing_rsvp = Rsvp.find_by(guest_id: params[:rsvp][:guest_id])
 
     @rsvp = Rsvp.new(rsvp_params)
     if @rsvp.save
-      existing_rsvp.destroy if existing_rsvp
+      existing_rsvp&.destroy
       RsvpMailer.confirmation(@rsvp.guest).deliver_later
       flash[:notice] = "#{@rsvp.guest.first_name}, #{t('rsvp_mailer.confirmation.thanks_for_the_confirmation')}"
       redirect_to root_path

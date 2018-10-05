@@ -1,5 +1,6 @@
-class RsvpMailer < ApplicationMailer
+# frozen_string_literal: true
 
+class RsvpMailer < ApplicationMailer
   # Subject can be set in your I18n file at config/locales/en.yml
   # with the following lookup:
   #
@@ -12,7 +13,6 @@ class RsvpMailer < ApplicationMailer
       # to:       "kubligen3@yahoo.fr",
       to:       @guest.email,
       subject:  "[#{@guest.first_name} #{@guest.last_name}] #{t('.confirmation_email')}"
-      )
+    )
   end
 end
-

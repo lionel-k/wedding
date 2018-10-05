@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 source 'https://rubygems.org'
 ruby '2.4.3'
 
@@ -21,8 +23,8 @@ gem 'webpacker'
 gem 'rails-i18n'
 
 group :development do
+  gem 'letter_opener'
   gem 'web-console', '>= 3.3.0'
-  gem "letter_opener"
 end
 
 group :development, :test do
