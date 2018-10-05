@@ -1,14 +1,14 @@
 source 'https://rubygems.org'
 ruby '2.4.3'
 
-gem 'devise'
-gem 'figaro'
-gem 'jbuilder', '~> 2.0'
 gem 'pg', '~> 0.20'
 gem 'puma'
 gem 'rails', '5.1.4'
-gem 'redis'
 
+gem 'devise'
+gem 'figaro'
+
+# FRONT-END
 gem 'autoprefixer-rails'
 gem 'bootstrap-sass'
 gem 'font-awesome-sass'
@@ -16,6 +16,8 @@ gem 'sass-rails'
 gem 'simple_form'
 gem 'uglifier'
 gem 'webpacker'
+
+# Translations
 gem 'rails-i18n'
 
 group :development do
