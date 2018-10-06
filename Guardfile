@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # A sample Guardfile
 # More info at https://github.com/guard/guard#readme
 
@@ -42,7 +44,7 @@ guard 'livereload' do
     # less: :less, # uncomment if you want LESS stylesheets done in browser
   }
 
-  rails_view_exts = %w(erb haml slim)
+  rails_view_exts = %w[erb haml slim]
 
   # file types LiveReload may optimize refresh for
   compiled_exts = extensions.values.uniq
@@ -64,4 +66,9 @@ guard 'livereload' do
   watch(%r{app/views/.+\.(#{rails_view_exts * '|'})$})
   watch(%r{app/helpers/.+\.rb})
   watch(%r{config/locales/.+\.yml})
+end
+
+guard :rubocop, all_on_start: false, cli: ['--auto-correct'] do
+  watch(%r{.+\.rb$})
+  watch(%r{(?:.+/)?\.rubocop(?:_todo)?\.yml$}) { |m| File.dirname(m[0]) }
 end

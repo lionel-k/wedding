@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class CreateRsvps < ActiveRecord::Migration[5.1]
   def change
     create_table :rsvps do |t|

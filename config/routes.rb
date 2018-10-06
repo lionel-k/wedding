@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 Rails.application.routes.draw do
   devise_for :users
   scope '(:locale)', locale: /en|fr|hu|it/ do
@@ -5,5 +7,5 @@ Rails.application.routes.draw do
     resources :rsvps, only: [:new]
     get '/gallery', to: 'gallery_pictures#index', as: 'gallery'
   end
-  resources :rsvps, only: [:create, :index]
+  resources :rsvps, only: %i[create index]
 end
