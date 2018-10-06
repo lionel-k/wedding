@@ -17,7 +17,7 @@ Metrics/LineLength:
 # Include: app/models/**/*.rb
 Rails/HasManyOrHasOneDependent:
   Exclude:
-    - 'app/models/guest.rb'
+    # - 'app/models/guest.rb'
 
 # Offense count: 2
 # Cop supports --auto-correct.
