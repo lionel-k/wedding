@@ -28,7 +28,9 @@ group :development do
 end
 
 group :development, :test do
+  gem 'guard'
   gem 'guard-livereload', '~> 2.5', require: false
+  gem 'guard-rubocop'
   gem 'listen', '~> 3.0.5'
   gem 'pry-byebug'
   gem 'pry-rails'
