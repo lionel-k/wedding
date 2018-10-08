@@ -3,8 +3,8 @@ FactoryBot.define do
     g.sequence(:first_name) { |n| "John-#{n}" }
     g.sequence(:last_name) { |n| "Doe-#{n}" }
     g.sequence(:email) { |n| "john.doe-#{n}@email.com" }
-    dear 'Dear'
+    dear { 'Dear' }
     g.sequence(:greeting) { |n| "Dear Johnny-#{n}" }
-    language 'en'
+    language { 'en' }
   end
 end
