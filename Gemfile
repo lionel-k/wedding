@@ -41,7 +41,7 @@ group :development, :test do
   gem 'rspec_junit_formatter', '~> 0.2.3'
   gem 'selenium-webdriver'
   gem 'shoulda-matchers', '~> 3.1'
+  gem 'simplecov', require: false
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
-  gem 'simplecov', require: false
 end
