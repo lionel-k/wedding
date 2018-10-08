@@ -43,4 +43,5 @@ group :development, :test do
   gem 'shoulda-matchers', '~> 3.1'
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
+  gem 'simplecov', require: false
 end
