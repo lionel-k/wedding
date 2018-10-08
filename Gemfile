@@ -36,4 +36,6 @@ group :development, :test do
   gem 'pry-rails'
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
+  gem 'rspec-rails', '~> 3.8'
+  gem 'shoulda-matchers', '~> 3.1'
 end
