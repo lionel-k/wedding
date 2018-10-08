@@ -28,12 +28,19 @@ group :development do
 end
 
 group :development, :test do
+  gem 'capybara'
+  gem 'database_cleaner'
+  gem 'factory_bot_rails'
   gem 'guard'
   gem 'guard-livereload', '~> 2.5', require: false
+  gem 'guard-rspec', require: false
   gem 'guard-rubocop'
-  gem 'listen', '~> 3.0.5'
   gem 'pry-byebug'
   gem 'pry-rails'
+  gem 'rspec-rails', '~> 3.7'
+  gem 'rspec_junit_formatter', '~> 0.2.3'
+  gem 'selenium-webdriver'
+  gem 'shoulda-matchers', '~> 3.1'
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
 end
