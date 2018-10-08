@@ -12,9 +12,6 @@ public/packs-test
 node_modules
 .byebug_history
 db/guests.csv
-create-guests.rb
-list-guests.txt
-wedding
 
 # Ignore application configuration
 /config/application.yml

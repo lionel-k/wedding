@@ -20,7 +20,8 @@ class RsvpsController < ApplicationController
     if @rsvp.save
       existing_rsvp&.destroy
       RsvpMailer.confirmation(@rsvp.guest).deliver_later
-      flash[:notice] = "#{@rsvp.guest.first_name}, #{t('rsvp_mailer.confirmation.thanks_for_the_confirmation')}"
+      flash[:notice] = "#{@rsvp.guest.first_name}, "\
+      "#{t('rsvp_mailer.confirmation.thanks_for_the_confirmation')}"
       redirect_to root_path
     else
       render 'rsvps/new'
@@ -30,6 +31,10 @@ class RsvpsController < ApplicationController
   private
 
   def rsvp_params
-    params.require(:rsvp).permit(:guest_id, :is_attending, :needs_accomodation, :additionals, :consideration)
+    params.require(:rsvp).permit(:guest_id,
+                                 :is_attending,
+                                 :needs_accomodation,
+                                 :additionals,
+                                 :consideration)
   end
 end
