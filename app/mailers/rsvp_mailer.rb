@@ -11,8 +11,8 @@ class RsvpMailer < ApplicationMailer
 
     mail(
       # to:       "kubligen3@yahoo.fr",
-      to:       @guest.email,
-      subject:  "[#{@guest.first_name} #{@guest.last_name}] #{t('.confirmation_email')}"
+      to: @guest.email,
+      subject: "[#{@guest.first_name} #{@guest.last_name}] #{t('.confirmation_email')}"
     )
   end
 end
