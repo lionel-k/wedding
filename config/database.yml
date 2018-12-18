@@ -2,13 +2,13 @@
 default: &default
   adapter: postgresql
   encoding: unicode
-  host: <%= ENV['WEDDING_DATABASE_HOST'] %>
-  username: postgres
-  password:
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
 
 development:
   <<: *default
+  host: <%= ENV['WEDDING_DATABASE_HOST'] %>
+  username: postgres
+  password:
   database: wedding_development
 
 test:
