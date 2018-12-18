@@ -1,14 +1,23 @@
-db:
-  image: postgres:latest
-  ports:
-    - 5432:5432
-web:
-  build: .
-  command: rails s -b 0.0.0.0
-  volumes:
-    - .:/app
-  stdin_open: true
-  ports:
-   - "3000:3000"
-  links:
-   - db
+version: '3'
+services:
+  db:
+    image: postgres
+    volumes:
+      - ./tmp/db:/var/lib/postgresql/data
+  web:
+    build: .
+    command: bundle exec rails s -p 3000 -b '0.0.0.0'
+    volumes:
+      - .:/app
+    ports:
+      - "3000:3000"
+    depends_on:
+      - db
+
+  guard:
+      build: .
+      volumes:
+        - .:/app
+      environment:
+        - RAILS_ENV=development
+      command: bundle exec guard --no-bundler-warning --no-interactions
