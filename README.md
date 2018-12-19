@@ -1,1 +1,5 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+## Website of my wedding with Annamaria
+
+This app was built in order to give to the guests all the informations needed to attend the event.
+
+Stack: RoR, JavaScript, Heroku, Docker, CircleCI
