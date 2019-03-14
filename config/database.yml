@@ -7,7 +7,7 @@ default: &default
 development:
   <<: *default
   host: <%= ENV['WEDDING_DATABASE_HOST'] %>
-  username: postgres
+  # username: postgres
   password:
   database: wedding_development
 

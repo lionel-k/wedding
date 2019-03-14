@@ -12,18 +12,18 @@ gallery.each do |picture|
   GalleryPicture.create!(name: name, description: description)
 end
 
-Guest.destroy_all
+# Guest.destroy_all
 
-csv_options = { col_sep: ',', headers: :first_row }
-filepath    = 'db/guests.csv'
+# csv_options = { col_sep: ',', headers: :first_row }
+# filepath    = 'db/guests.csv'
 
 
-CSV.foreach(filepath, csv_options) do |row|
-  Guest.create(email: "#{row['email']}",
-    first_name: "#{row['first_name']}",
-    last_name: "#{row['last_name']}",
-    dear: "#{row['dear']}",
-    greeting: "#{row['greeting']}",
-    language: "#{row['language']}"
-    )
-end
+# CSV.foreach(filepath, csv_options) do |row|
+#   Guest.create(email: "#{row['email']}",
+#     first_name: "#{row['first_name']}",
+#     last_name: "#{row['last_name']}",
+#     dear: "#{row['dear']}",
+#     greeting: "#{row['greeting']}",
+#     language: "#{row['language']}"
+#     )
+# end
