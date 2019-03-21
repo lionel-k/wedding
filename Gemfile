@@ -7,7 +7,7 @@ gem 'pg', '~> 0.20'
 gem 'puma'
 gem 'rails', '5.2.2.1'
 
-gem 'devise'
+gem 'devise', '>= 4.6.0'
 gem 'figaro'
 
 # FRONT-END
