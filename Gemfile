@@ -40,7 +40,7 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.7'
   gem 'rspec_junit_formatter', '~> 0.2.3'
   gem 'selenium-webdriver'
-  gem 'shoulda-matchers', '~> 3.1'
+  gem 'shoulda-matchers', '~> 4.1'
   gem 'simplecov', require: false
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
