@@ -38,7 +38,7 @@ group :development, :test do
   gem 'pry-byebug'
   gem 'pry-rails'
   gem 'rspec-rails', '~> 3.7'
-  gem 'rspec_junit_formatter', '~> 0.2.3'
+  gem 'rspec_junit_formatter', '~> 0.4.1'
   gem 'selenium-webdriver'
   gem 'shoulda-matchers', '~> 4.1'
   gem 'simplecov', require: false
