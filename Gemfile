@@ -3,7 +3,7 @@
 source 'https://rubygems.org'
 ruby '2.4.4'
 
-gem 'pg', '~> 1.1'
+gem 'pg', '~> 1.2'
 gem 'puma'
 gem 'rails', '5.2.4.1'
 
