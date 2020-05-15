@@ -5,7 +5,7 @@ ruby '2.6.5'
 
 gem 'pg', '~> 1.2'
 gem 'puma'
-gem 'rails', '5.2.4.1'
+gem 'rails', '5.2.4.2'
 
 gem 'devise', '>= 4.6.0'
 gem 'figaro'
@@ -37,7 +37,7 @@ group :development, :test do
   gem 'guard-rubocop'
   gem 'pry-byebug'
   gem 'pry-rails'
-  gem 'rspec-rails', '~> 3.9'
+  gem 'rspec-rails', '~> 4.0'
   gem 'rspec_junit_formatter', '~> 0.4.1'
   gem 'selenium-webdriver'
   gem 'shoulda-matchers', '~> 4.3'
