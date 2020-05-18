@@ -5,7 +5,7 @@ ruby '2.6.5'
 
 gem 'pg', '~> 1.2'
 gem 'puma'
-gem 'rails', '5.2.4.2'
+gem 'rails', '6.0.3'
 
 gem 'devise', '>= 4.6.0'
 gem 'figaro'
