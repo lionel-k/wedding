@@ -37,7 +37,7 @@ group :development, :test do
   gem 'guard-rubocop'
   gem 'pry-byebug'
   gem 'pry-rails'
-  gem 'rspec-rails', '~> 4.0'
+  gem 'rspec-rails', '~> 5.0'
   gem 'rspec_junit_formatter', '~> 0.4.1'
   gem 'selenium-webdriver'
   gem 'shoulda-matchers', '~> 4.3'
